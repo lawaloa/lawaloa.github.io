@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Omotola Ayodele Lawal"
+  navbar:
+     left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: Portfolio.qmd
+      - text: "CV"
+        file: CV.qmd
+     right:
+      - icon: github
+        href: https://github.com/20JULY1994
+      - icon: twitter
+        href: https://twitter.com/@LawalOmotola20
+format:
+  html:
+    theme: cosmos
+    css: styles.css
+
+editor: visual
+

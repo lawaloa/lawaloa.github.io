@@ -1,0 +1,20 @@
+---
+title: "Omotola Ayodele Lawal"
+image: Preinduction.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/@LawalOmotola20
+    - icon: linkedin
+      text: LinkedIn
+      href: https://bit.ly/4bQdkil
+    - icon: github
+      text: Github
+      href: https://github.com/20JULY1994
+---
+
+I am a chaste, clinically and patient-oriented medical doctor. A mature team worker and adaptable to all challenging circumstances, able to work well in a team environment and use initiative.
+
+Proficient with Microsoft Excel, Python, R, and Google spreadsheets
