@@ -7,6 +7,27 @@
     "text": "I am a chaste, clinically and patient-oriented medical doctor. A mature team worker and adaptable to all challenging circumstances, able to work well in a team environment and use initiative.\nProficient with Microsoft Excel, Python, R, and Google spreadsheets"
   },
   {
+    "objectID": "docs/posts/post-with-code/index.html",
+    "href": "docs/posts/post-with-code/index.html",
+    "title": "Conditional Mutation",
+    "section": "",
+    "text": "This was a quiz on the topic: Conditional Mutation. You can find the project here"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Conditional Mutation",
+    "section": "",
+    "text": "This was a quiz on the topic: Conditional Mutation. You can find the project here"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
     "objectID": "Portfolio.html",
     "href": "Portfolio.html",
     "title": "Lawal’s Portfolio",
