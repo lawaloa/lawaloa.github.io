@@ -5,6 +5,6 @@ date: "2024-09-01"
 categories: [Project]
 ---
 
-This is the second project published in my portfolio. You can find it [here](https://github.com/20JULY1994/Investigating_Netflix_Movies_1){target="_blank"}
+This is the second project published in my portfolio. You can find it [here](https://github.com/lawaloa/Investigating_Netflix_Movies_1){target="_blank"}
 
 ![](Movie%20Duration%20by%20Year%20of%20Release.png)

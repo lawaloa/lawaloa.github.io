@@ -12,7 +12,7 @@ about:
       href: https://bit.ly/4bQdkil
     - icon: github
       text: Github
-      href: https://github.com/20JULY1994
+      href: https://github.com/lawaloa
 ---
 
 I am a chaste, clinically and patient-oriented medical doctor. A mature team worker and adaptable to all challenging circumstances, able to work well in a team environment and use initiative.

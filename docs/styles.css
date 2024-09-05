@@ -1,5 +1,8 @@
-/* css styles */
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #badee6;
+$body-color: white;
+$link-color: #9f57b5;
 
-body {
-  background-color: #89a7d6;
-}
+// Code blocks
+$code-block-bg-alpha: -.8;
