@@ -7,22 +7,42 @@ website:
   navbar:
      left:
       - text: "Home"
-        file: index.qmd
+        href: index.qmd
       - text: "Portfolio"
-        file: Portfolio.qmd
+        href: Portfolio.qmd
       - text: "CV"
-        file: CV.qmd
+        href: CV.qmd
+      - text: "Certification"
+        href: Cert.qmd
      right:
       - icon: github
         href: https://github.com/lawaloa
       - icon: twitter
         href: https://twitter.com/@LawalOmotola20
+ 
+  sidebar:
+   - title: "Portfolio"
+     style: "docked"
+     background: light
+     contents:
+        - netflix.qmd
+        - conditional.qmd
+        - join_pandas.qmd
+        - main_dash.qmd
+        # navigation items
+        
+   - title: "Certification"
+     contents:
+        - Cert.qmd
+        - annual.qmd
+        # navigation items
+        
+    
 format:
   html:
-    theme: 
-     light: cosmo
-     dark: [cosmo, theme-dark.scss]
+    theme: quartz
     css: style.css
+    toc: true
 
 editor: visual
 

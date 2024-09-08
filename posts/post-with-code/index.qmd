@@ -1,9 +1,0 @@
----
-title: "Conditional Mutation"
-author: "Omotola Ayodele Lawal"
-date: "2024-09-02"
-categories: [code, analysis, r]
-image: "image.jpg"
----
-
-This was a quiz on the topic: `Conditional Mutation`. You can find the project [here](https://lawaloa.github.io/Conditional_Mutation/){target="_blank"}

@@ -32,11 +32,93 @@
     "href": "Portfolio.html",
     "title": "Lawal’s Portfolio",
     "section": "",
-    "text": "Joining data with Pandas\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nConditional Mutation\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating the Netflix Movies\n\n\n\n\n\n\nProject\n\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\nLawal Omotola\n\n\n\n\n\n\nNo matching items"
+    "text": "GAPMINDER | LIFE EXPECTANCIES 2007\n\n\n\n\n\n\ndashboard\n\n\ndata\n\n\ninformation\n\n\n\n\n\n\n\n\n\nSep 7, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nJoining data with Pandas\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nConditional Mutation\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating the Netflix Movies\n\n\n\n\n\n\nProject\n\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\nLawal Omotola\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Joining_data_with_pandas/index.html",
     "href": "posts/Joining_data_with_pandas/index.html",
+    "title": "Joining data with Pandas",
+    "section": "",
+    "text": "The pandas package is a powerful tool for manipulating and transforming data in python. However, when working on an analytics, the data needed could be in multiple tables. Check here for some illustrations."
+  },
+  {
+    "objectID": "posts/first_dashboard/main_dash.html",
+    "href": "posts/first_dashboard/main_dash.html",
+    "title": "GAPMINDER | LIFE EXPECTANCIES 2007",
+    "section": "",
+    "text": "This dashboard summarize and visualize the life expectancy of countries for the year 2007.\nClick here for more details."
+  },
+  {
+    "objectID": "cert/MDCN/mdcn.html",
+    "href": "cert/MDCN/mdcn.html",
+    "title": "Omotola Ayodele Lawal",
+    "section": "",
+    "text": "{{&lt; pdf ANNUAL PRACTICING LICENCE (2024).pdf 600 400 &gt;}}"
+  },
+  {
+    "objectID": "cert/OpenWHO/index.html",
+    "href": "cert/OpenWHO/index.html",
+    "title": "Joining data with Pandas",
+    "section": "",
+    "text": "The pandas package is a powerful tool for manipulating and transforming data in python. However, when working on an analytics, the data needed could be in multiple tables. Check here for some illustrations."
+  },
+  {
+    "objectID": "cert/DataCamp/index.html",
+    "href": "cert/DataCamp/index.html",
+    "title": "Joining data with Pandas",
+    "section": "",
+    "text": "The pandas package is a powerful tool for manipulating and transforming data in python. However, when working on an analytics, the data needed could be in multiple tables. Check here for some illustrations."
+  },
+  {
+    "objectID": "Cert.html",
+    "href": "Cert.html",
+    "title": "CERTIFICATIONS",
+    "section": "",
+    "text": "This page host some of my professional certificates",
+    "crumbs": [
+      "Certification",
+      "CERTIFICATIONS"
+    ]
+  },
+  {
+    "objectID": "annual.html",
+    "href": "annual.html",
+    "title": "ANNUAL PRACTICING LICENSE",
+    "section": "",
+    "text": "This is my Annual Practicing License for the year 2024.",
+    "crumbs": [
+      "Certification",
+      "ANNUAL PRACTICING LICENSE"
+    ]
+  },
+  {
+    "objectID": "reg.html",
+    "href": "reg.html",
+    "title": "CERTIFICATE OF FULL REGISTRATION",
+    "section": "",
+    "text": "This is my Certificate of Full Registration.",
+    "crumbs": [
+      "Certification",
+      "CERTIFICATE OF FULL REGISTRATION"
+    ]
+  },
+  {
+    "objectID": "posts/post-with-code/conditional.html",
+    "href": "posts/post-with-code/conditional.html",
+    "title": "Conditional Mutation",
+    "section": "",
+    "text": "This was a quiz on the topic: Conditional Mutation. You can find the project here"
+  },
+  {
+    "objectID": "posts/welcome/netflix.html",
+    "href": "posts/welcome/netflix.html",
+    "title": "Investigating the Netflix Movies",
+    "section": "",
+    "text": "This is the second project published in my portfolio. You can find it here"
+  },
+  {
+    "objectID": "posts/Joining_data_with_pandas/join_pandas.html",
+    "href": "posts/Joining_data_with_pandas/join_pandas.html",
     "title": "Joining data with Pandas",
     "section": "",
     "text": "The pandas package is a powerful tool for manipulating and transforming data in python. However, when working on an analytics, the data needed could be in multiple tables. Check here for some illustrations."

@@ -6,3 +6,9 @@ $link-color: #9f57b5;
 
 // Code blocks
 $code-block-bg-alpha: -.8;
+
+
+<style>
+  iframe::-webkit-media-controls-enclosure { display:none !important; }
+  iframe { pointer-events: none; }
+</style>

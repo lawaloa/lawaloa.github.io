@@ -1,0 +1,11 @@
+---
+title: "GAPMINDER | LIFE EXPECTANCIES 2007"
+author: "Omotola Ayodele Lawal"
+date: "2024-09-07"
+categories: [dashboard, data, information]
+image: "gapminder.jpg"
+---
+
+This dashboard summarize and visualize the **`life expectancy`** of countries for the year 2007.
+
+Click [here](https://lawaloa.github.io/gapminder_dash/){target="_blank"} for more details.

@@ -2,9 +2,19 @@
   {
     "listing": "/Portfolio.html",
     "items": [
-      "/posts/Joining_data_with_pandas/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/first_dashboard/main_dash.html",
+      "/posts/Joining_data_with_pandas/join_pandas.html",
+      "/posts/post-with-code/conditional.html",
+      "/posts/welcome/netflix.html"
+    ]
+  },
+  {
+    "listing": "/Cert.html",
+    "items": [
+      "/cert/MDCN/mdcn.html",
+      "/cert/reg_mdcn/mdcn.html",
+      "/cert/DataCamp/index.html",
+      "/cert/OpenWHO/index.html"
     ]
   }
 ]
