@@ -122,5 +122,12 @@
     "title": "Joining data with Pandas",
     "section": "",
     "text": "The pandas package is a powerful tool for manipulating and transforming data in python. However, when working on an analytics, the data needed could be in multiple tables. Check here for some illustrations."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "My Resume",
+    "section": "",
+    "text": "Download PDF file."
   }
 ]

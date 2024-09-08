@@ -5,7 +5,3 @@ body {
 }
 
 
-<style>
-  iframe::-webkit-media-controls-enclosure { display:none !important; }
-  iframe { pointer-events: none; }
-</style>

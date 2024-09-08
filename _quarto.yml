@@ -7,13 +7,13 @@ website:
   navbar:
      left:
       - text: "Home"
-        href: index.qmd
+        file: index.qmd
       - text: "Portfolio"
-        href: Portfolio.qmd
+        file: Portfolio.qmd
       - text: "CV"
-        href: CV.qmd
+        file: CV.qmd
       - text: "Certification"
-        href: Cert.qmd
+        file: Cert.qmd
      right:
       - icon: github
         href: https://github.com/lawaloa
@@ -35,6 +35,8 @@ website:
      contents:
         - Cert.qmd
         - annual.qmd
+        - who1.qmd
+        - who2.qmd
         # navigation items
         
     
