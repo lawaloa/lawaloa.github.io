@@ -4,7 +4,12 @@ body {
   background-color: #89a7d6;
 }
 
-// Code blocks
-$code-block-bg-alpha: -.8;
+
+h2.subtitle {
+    text-align: center;   /* Center the subtitle */
+    font-size: 1.2em;     /* Adjust font size */
+    margin-top: -10px;    /* Adjust spacing between title and subtitle */
+    color: #555555;       /* Change subtitle color */
+}
 
 

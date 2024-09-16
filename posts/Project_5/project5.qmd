@@ -1,0 +1,10 @@
+---
+title: "CUSTOMER ANALYTICS: PREPARING DATA FOR MODELLING"
+author: "Omotola Ayodele Lawal"
+date: "2024-09-16"
+categories: [Project]
+---
+
+This project is about efficient data storage, so as to prepare the dataset fit for model creation. Check the project [here](https://lawaloa.github.io/Project_5){target="_blank"}
+
+![](hr-image-small.png)

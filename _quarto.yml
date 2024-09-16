@@ -43,7 +43,7 @@ website:
 format:
   html:
     theme: quartz
-    css: style.css
+    css: subtitle.css
     toc: true
 
 editor: visual

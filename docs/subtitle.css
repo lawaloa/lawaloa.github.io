@@ -1,0 +1,12 @@
+h2.subtitle {
+    text-align: center;
+    font-size: 1.5em;
+    color: #444;
+}
+
+@media (max-width: 600px) {
+    h2.subtitle {
+        font-size: 1.2em;  /* Smaller font size on mobile */
+        margin-top: 0;
+    }
+}

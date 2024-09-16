@@ -2,7 +2,7 @@
 title: "Omotola Ayodele Lawal"
 image: Preinduction.jpg
 about:
-  template: jolla
+  template: broadside
   links:
     - icon: twitter
       text: Twitter
@@ -15,6 +15,16 @@ about:
       href: https://github.com/lawaloa
 ---
 
-I am a chaste, clinically and patient-oriented medical doctor. A mature team worker and adaptable to all challenging circumstances, able to work well in a team environment and use initiative.
+I am a chaste, clinically and patient-oriented medical doctor. A mature team worker and adaptable to all challenging circumstances, able to work well in a team environment and use initiative. Outside of patient care, I enjoys learning data science and guiding high school graduates on career choices.
 
-Proficient with Microsoft Excel, Python, R, and Google spreadsheets
+
+## Education
+
+University of Ibadan, Ibadan | Oyo State, Nigeria
+MB;BS | May 2015 - November 2022
+
+## Experience
+
+Nigerian Navy Reference Hospital, Ojo, Lagos, Nigeria | Medical Officer | February 2024 - present
+
+Federal Medical Center, Owo | House Officer | January 2023 - January 2024
