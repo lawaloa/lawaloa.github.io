@@ -42,7 +42,7 @@ website:
     
 format:
   html:
-    theme: quartz
+    theme: flatly
     css: subtitle.css
     toc: true
 

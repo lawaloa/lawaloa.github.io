@@ -1,0 +1,9 @@
+---
+title: "Joining data with Pandas"
+author: "Omotola Ayodele Lawal"
+date: "2024-09-07"
+categories: [code, analysis, python]
+image: "image.jpg"
+---
+
+The pandas package is a powerful tool for manipulating and transforming data in python. However, when working on an analytics, the data needed could be in multiple tables. Check [here](https://github.com/lawaloa/Joining_Data_with_pandas){target="_blank"} for some illustrations.

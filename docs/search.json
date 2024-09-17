@@ -32,7 +32,7 @@
     "href": "Portfolio.html",
     "title": "Lawal’s Portfolio",
     "section": "",
-    "text": "CUSTOMER ANALYTICS: PREPARING DATA FOR MODELLING\n\n\n\n\n\n\nProject\n\n\n\n\n\n\n\n\n\nSep 16, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nGAPMINDER | LIFE EXPECTANCIES 2007\n\n\n\n\n\n\ndashboard\n\n\ndata\n\n\ninformation\n\n\n\n\n\n\n\n\n\nSep 7, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nJoining data with Pandas\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nConditional Mutation\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating the Netflix Movies\n\n\n\n\n\n\nProject\n\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\nLawal Omotola\n\n\n\n\n\n\nNo matching items"
+    "text": "CUSTOMER ANALYTICS: PREPARING DATA FOR MODELLING\n\n\n\n\n\n\nProject\n\n\n\n\n\n\n\n\n\nSep 16, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nGAPMINDER | LIFE EXPECTANCIES 2007\n\n\n\n\n\n\ndashboard\n\n\ndata\n\n\ninformation\n\n\n\n\n\n\n\n\n\nSep 7, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nJoining data with Pandas\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nSep 7, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nJoining data with Pandas\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nConditional Mutation\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating the Netflix Movies\n\n\n\n\n\n\nProject\n\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\nLawal Omotola\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Joining_data_with_pandas/index.html",
@@ -72,12 +72,11 @@
   {
     "objectID": "Cert.html",
     "href": "Cert.html",
-    "title": "CERTIFICATIONS",
+    "title": "Certification",
     "section": "",
-    "text": "This page hosts some of my professional certificates",
+    "text": "No matching items",
     "crumbs": [
-      "Certification",
-      "CERTIFICATIONS"
+      "Certification"
     ]
   },
   {
@@ -150,5 +149,12 @@
     "title": "Omotola Ayodele Lawal",
     "section": "Experience",
     "text": "Experience\nNigerian Navy Reference Hospital, Ojo, Lagos, Nigeria | Medical Officer | February 2024 - present\nFederal Medical Center, Owo | House Officer | January 2023 - January 2024"
+  },
+  {
+    "objectID": "posts/Project_5/project5.html#section",
+    "href": "posts/Project_5/project5.html#section",
+    "title": "CUSTOMER ANALYTICS: PREPARING DATA FOR MODELLING",
+    "section": "",
+    "text": "The data used for this project is shown below and can be downloaded as a CSV.\n\n\n\n\nDownload as CSV"
   }
 ]
