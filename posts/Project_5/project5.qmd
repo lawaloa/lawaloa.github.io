@@ -19,10 +19,9 @@ pacman::p_load(reactable, htmltools)
 customer <- read.csv('customer_train.csv')
 ```
 
+## 
 
-##
-
-The data used for this project is shown below and can be downloaded as a CSV.
+**The data used for this project is shown below and can be downloaded as a CSV.**
 
 ```{r}
 #| echo: false
@@ -37,4 +36,3 @@ tags$button("Download as CSV", onclick = "Reactable.downloadDataCSV('customer_tr
   )
 )
 ```
-
