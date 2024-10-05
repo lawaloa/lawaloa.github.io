@@ -7,3 +7,5 @@ image: "image.jpg"
 ---
 
 This was a quiz on the topic: **`Conditional Mutation`**. You can find the project [here](https://lawaloa.github.io/Conditional_Mutation/){target="_blank"}
+
+![](image.jpg)

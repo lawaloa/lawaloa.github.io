@@ -7,3 +7,5 @@ image: "image.jpg"
 ---
 
 The pandas package is a powerful tool for manipulating and transforming data in python. However, when working on an analytics, the data needed could be in multiple tables. Check [here](https://github.com/lawaloa/Joining_Data_with_pandas){target="_blank"} for some illustrations.
+
+![](image.jpg)

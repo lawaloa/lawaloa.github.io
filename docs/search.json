@@ -46,7 +46,7 @@
     "href": "posts/first_dashboard/main_dash.html",
     "title": "GAPMINDER | LIFE EXPECTANCIES 2007",
     "section": "",
-    "text": "This dashboard summarize and visualize the life expectancy of countries for the year 2007.\nClick here for more details.\n![gapminder.jpg]"
+    "text": "This dashboard summarize and visualize the life expectancy of countries for the year 2007.\nClick here for more details."
   },
   {
     "objectID": "cert/MDCN/mdcn.html",
@@ -162,6 +162,6 @@
     "href": "posts/Clean data/Clean_data.html",
     "title": "COURSE 15: CLEANING DATA IN PYTHON",
     "section": "",
-    "text": "Dirty data can appear because of duplicate values, mis-spellings, data type parsing errors and legacy systems. Without ensuring that data is properly cleaned in the exploration and processing phase, we will surely compromise the insights and reports subsequently generated. As the old adage says, garbage in garbage out. Check here for details.\n![Clean_data.jpg]"
+    "text": "Dirty data can appear because of duplicate values, mis-spellings, data type parsing errors and legacy systems. Without ensuring that data is properly cleaned in the exploration and processing phase, we will surely compromise the insights and reports subsequently generated. As the old adage says, garbage in garbage out. Check here for details."
   }
 ]
