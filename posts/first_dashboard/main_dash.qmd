@@ -9,3 +9,5 @@ image: "gapminder.jpg"
 This dashboard summarize and visualize the **`life expectancy`** of countries for the year 2007.
 
 Click [here](https://lawaloa.github.io/gapminder_dash/){target="_blank"} for more details.
+
+![gapminder.jpg]
