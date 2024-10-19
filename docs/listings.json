@@ -14,7 +14,7 @@
   {
     "listing": "/Note.html",
     "items": [
-      "/Note/Date/date.html",
+      "/Note/Date/index.html",
       "/Note/Clean data/Clean_data.html",
       "/Note/Joining_data_with_pandas/join_pandas.html",
       "/Note/conditional/conditional.html"
