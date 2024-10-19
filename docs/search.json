@@ -205,5 +205,19 @@
     "title": "Omotola Ayodele Lawal",
     "section": "Professional Development Training",
     "text": "Professional Development Training\nFundamentals of Statistical Software & Analysis (FoSSA) | University of Oxford Medical Sciences Division | August 2024 - Present\nSELF-PACED: Data Analysis & Statistics Sequence | The Global Research and Analysis for Public Health Network | June 2024 - Present\nAssociate Data Science Course in Python | DataCamp Inc | April 2024 - Present"
+  },
+  {
+    "objectID": "Note/Clean data/Clean_data.html",
+    "href": "Note/Clean data/Clean_data.html",
+    "title": "COURSE 15: CLEANING DATA IN PYTHON",
+    "section": "",
+    "text": "Dirty data can appear because of duplicate values, mis-spellings, data type parsing errors and legacy systems. Without ensuring that data is properly cleaned in the exploration and processing phase, we will surely compromise the insights and reports subsequently generated. As the old adage says, garbage in garbage out. Check here for details."
+  },
+  {
+    "objectID": "posts/Netflix/netflix.html",
+    "href": "posts/Netflix/netflix.html",
+    "title": "Investigating the Netflix Movies",
+    "section": "",
+    "text": "This is the second project published in my portfolio. You can find it here"
   }
 ]
