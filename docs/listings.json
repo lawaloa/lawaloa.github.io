@@ -2,16 +2,22 @@
   {
     "listing": "/Portfolio.html",
     "items": [
-      "/posts/Clean data/Clean_data.html",
       "/posts/Project_5/project5.html",
       "/posts/first_dashboard/main_dash.html",
-      "/posts/Joining_data_with_pandas/join_pandas.html",
-      "/posts/post-with-code/conditional.html",
-      "/posts/welcome/netflix.html"
+      "/posts/Netflix/netflix.html"
     ]
   },
   {
     "listing": "/Cert.html",
     "items": []
+  },
+  {
+    "listing": "/Note.html",
+    "items": [
+      "/Note/Date/date.html",
+      "/Note/Clean data/Clean_data.html",
+      "/Note/Joining_data_with_pandas/join_pandas.html",
+      "/Note/conditional/conditional.html"
+    ]
   }
 ]

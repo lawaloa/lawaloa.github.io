@@ -10,6 +10,8 @@ website:
         file: index.qmd
       - text: "Portfolio"
         file: Portfolio.qmd
+      - text: "Courses & Exercises"
+        file: Note.qmd
       - text: "CV"
         file: CV.qmd
       - text: "Certification"

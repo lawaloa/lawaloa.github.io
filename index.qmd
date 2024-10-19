@@ -25,6 +25,14 @@ MB;BS | May 2015 - November 2022
 
 ## Experience
 
-Nigerian Navy Reference Hospital, Ojo, Lagos, Nigeria | Medical Officer | February 2024 - present
+Nigerian Navy Reference Hospital, Ojo, Lagos, Nigeria | Medical Officer | February 2024 - Present
 
 Federal Medical Center, Owo | House Officer | January 2023 - January 2024
+
+## Professional Development Training
+
+Fundamentals of Statistical Software & Analysis (FoSSA) | University of Oxford Medical Sciences Division | August 2024 - Present
+
+SELF-PACED: Data Analysis & Statistics Sequence | The Global Research and Analysis for Public Health Network | June 2024 - Present
+
+Associate Data Science Course in Python | DataCamp Inc | April 2024 - Present
