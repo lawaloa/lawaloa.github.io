@@ -1,0 +1,11 @@
+---
+title: "Factors in R"
+author: "The GRAPH Network"
+date: "2024-11-12"
+categories: [code, analysis, R]
+image: "graph.png"
+---
+
+Factors are an important data class for representing and working with categorical variables in R. Completing the course was crucial in helping me build strong foundational skills in creating and manipulating factors using functions from the `forcats` package, part of the tidyverse. You can refer [here](https://lawaloa.github.io/Factors/){target="_blank"} for further review
+
+![](graph.png)
