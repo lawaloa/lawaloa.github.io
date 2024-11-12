@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Lawal’s note">
+<meta name="dcterms.date" content="2024-11-10">
 
-<title>Courses &amp; Exercises – Omotola Ayodele Lawal</title>
+<title>Fundamentals of Statistical Software &amp; Analysis – Omotola Ayodele Lawal</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,67 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="subtitle.css">
+<link rel="stylesheet" href="../../subtitle.css">
 </head>
 
 <body class="nav-fixed">
@@ -138,7 +80,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Omotola Ayodele Lawal</span>
     </a>
   </div>
@@ -149,23 +91,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Portfolio.html"> 
+    <a class="nav-link" href="../../Portfolio.html"> 
 <span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./Note.html" aria-current="page"> 
+    <a class="nav-link" href="../../Note.html"> 
 <span class="menu-text">Courses &amp; Exercises</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./CV.html"> 
+    <a class="nav-link" href="../../CV.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Cert.html"> 
+    <a class="nav-link" href="../../Cert.html"> 
 <span class="menu-text">Certification</span></a>
   </li>  
 </ul>
@@ -190,278 +132,56 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Courses &amp; Exercises</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Fundamentals of Statistical Software &amp; Analysis</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">statistic</div>
+                <div class="quarto-category">public health</div>
+                <div class="quarto-category">R</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Lawal’s note </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">November 10, 2024</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(2)</span></div><div class="category" data-category="analysis">analysis <span class="quarto-category-count">(3)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(5)</span></div><div class="category" data-category="note">note <span class="quarto-category-count">(2)</span></div><div class="category" data-category="public health">public health <span class="quarto-category-count">(1)</span></div><div class="category" data-category="python">python <span class="quarto-category-count">(3)</span></div><div class="category" data-category="r">r <span class="quarto-category-count">(1)</span></div><div class="category" data-category="statistic">statistic <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>I completed the Fundamentals of Statistical Software and Analysis course, which comprises seven modules. The course is designed to teach students about statistical tests and software code used in medical sciences. Check this <a href="https://lawaloa.github.io/FoSSA/" target="_blank">note</a> for some details.</p>
+<p><img src="images(10).jpeg" class="img-fluid"></p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="code,analysis,R" data-listing-date-sort="1731279600000" data-listing-file-modified-sort="1731375476804" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
-<div class="thumbnail">
-<p><a href="./Note/Strings/Strings.html" class="no-external"></a></p><a href="./Note/Strings/Strings.html" class="no-external">
-<p><img loading="lazy" src="./Note/Strings/SKYBLUE3.jpeg" class="thumbnail-image"></p>
-</a><p><a href="./Note/Strings/Strings.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./Note/Strings/Strings.html" class="no-external">Working with Strings in R</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./Note/Strings/Strings.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-</div>
-<div class="listing-description">
-<a href="./Note/Strings/Strings.html" class="no-external">Completing this course has made me proficient in string manipulation, a crucial skill for data scientists. Tasks such as cleaning messy data and formatting outputs rely…<code></code></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./Note/Strings/Strings.html" class="no-external">
-<div class="listing-date">
-Nov 11, 2024
-</div>
-<div class="listing-author">
-The GRAPH Network Member
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="statistic,public health,R" data-listing-date-sort="1731193200000" data-listing-file-modified-sort="1731375256353" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
-<div class="thumbnail">
-<p><a href="./Note/FoSSa/fossa.html" class="no-external"></a></p><a href="./Note/FoSSa/fossa.html" class="no-external">
-<p><img loading="lazy" src="./Note/FoSSa/fossa.jpeg" class="thumbnail-image"></p>
-</a><p><a href="./Note/FoSSa/fossa.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./Note/FoSSa/fossa.html" class="no-external">Fundamentals of Statistical Software &amp; Analysis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./Note/FoSSa/fossa.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('statistic'); return false;">
-statistic
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('public health'); return false;">
-public health
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-</div>
-<div class="listing-description">
-<a href="./Note/FoSSa/fossa.html" class="no-external">I completed the Fundamentals of Statistical Software and Analysis course, which comprises seven modules. The course is designed to teach students about statistical tests and…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./Note/FoSSa/fossa.html" class="no-external">
-<div class="listing-date">
-Nov 10, 2024
-</div>
-<div class="listing-author">
-Lawal’s note
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="code,note,python" data-listing-date-sort="1729119600000" data-listing-file-modified-sort="1729303571667" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="146">
-<div class="thumbnail">
-<p><a href="./Note/Date/date.html" class="no-external"></a></p><a href="./Note/Date/date.html" class="no-external">
-<p><img loading="lazy" src="./Note/Date/SOA.jpg" class="thumbnail-image"></p>
-</a><p><a href="./Note/Date/date.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./Note/Date/date.html" class="no-external">COURSE 16: WORKING WITH DATES AND TIMES IN PYTHON</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./Note/Date/date.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('note'); return false;">
-note
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
-python
-</div>
-</div>
-<div class="listing-description">
-<a href="./Note/Date/date.html" class="no-external">You’ll probably never have a time machine, but how about a machine for analyzing time? As soon as time enters any analysis, things can get weird. It’s easy to get tripped up…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./Note/Date/date.html" class="no-external">
-<div class="listing-date">
-Oct 17, 2024
-</div>
-<div class="listing-author">
-Omotola Ayodele Lawal
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="code,note,python" data-listing-date-sort="1728082800000" data-listing-file-modified-sort="1728092160900" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
-<div class="thumbnail">
-<p><a href="./Note/Clean data/Clean_data.html" class="no-external"></a></p><a href="./Note/Clean data/Clean_data.html" class="no-external">
-<p><img loading="lazy" src="./Note/Clean data/Clean_data.jpg" class="thumbnail-image"></p>
-</a><p><a href="./Note/Clean data/Clean_data.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./Note/Clean data/Clean_data.html" class="no-external">COURSE 15: CLEANING DATA IN PYTHON</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./Note/Clean data/Clean_data.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('note'); return false;">
-note
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
-python
-</div>
-</div>
-<div class="listing-description">
-<a href="./Note/Clean data/Clean_data.html" class="no-external">Dirty data can appear because of duplicate values, mis-spellings, data type parsing errors and legacy systems. Without ensuring that data is properly cleaned in the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./Note/Clean data/Clean_data.html" class="no-external">
-<div class="listing-date">
-Oct 5, 2024
-</div>
-<div class="listing-author">
-Omotola Ayodele Lawal
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="code,analysis,python" data-listing-date-sort="1725404400000" data-listing-file-modified-sort="1729300893099" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
-<div class="thumbnail">
-<p><a href="./Note/Joining_data_with_pandas/join_pandas.html" class="no-external"></a></p><a href="./Note/Joining_data_with_pandas/join_pandas.html" class="no-external">
-<p><img loading="lazy" src="./Note/Joining_data_with_pandas/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./Note/Joining_data_with_pandas/join_pandas.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./Note/Joining_data_with_pandas/join_pandas.html" class="no-external">Joining data with Pandas</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./Note/Joining_data_with_pandas/join_pandas.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
-python
-</div>
-</div>
-<div class="listing-description">
-<a href="./Note/Joining_data_with_pandas/join_pandas.html" class="no-external">The pandas package is a powerful tool for manipulating and transforming data in python. However, when working on an analytics, the data needed could be in multiple tables.…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./Note/Joining_data_with_pandas/join_pandas.html" class="no-external">
-<div class="listing-date">
-Sep 4, 2024
-</div>
-<div class="listing-author">
-Omotola Ayodele Lawal
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="code,analysis,r" data-listing-date-sort="1725231600000" data-listing-file-modified-sort="1729304920317" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="15">
-<div class="thumbnail">
-<p><a href="./Note/conditional/conditional.html" class="no-external"></a></p><a href="./Note/conditional/conditional.html" class="no-external">
-<p><img loading="lazy" src="./Note/conditional/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./Note/conditional/conditional.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./Note/conditional/conditional.html" class="no-external">Conditional Mutation</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./Note/conditional/conditional.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('r'); return false;">
-r
-</div>
-</div>
-<div class="listing-description">
-<a href="./Note/conditional/conditional.html" class="no-external">This was a quiz on the topic: <strong><code>Conditional Mutation</code></strong>. You can find the project here</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./Note/conditional/conditional.html" class="no-external">
-<div class="listing-date">
-Sep 2, 2024
-</div>
-<div class="listing-author">
-Omotola Ayodele Lawal
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -176,7 +176,7 @@
     "href": "Note.html",
     "title": "Courses & Exercises",
     "section": "",
-    "text": "COURSE 16: WORKING WITH DATES AND TIMES IN PYTHON\n\n\n\n\n\n\ncode\n\n\nnote\n\n\npython\n\n\n\n\n\n\n\n\n\nOct 17, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE 15: CLEANING DATA IN PYTHON\n\n\n\n\n\n\ncode\n\n\nnote\n\n\npython\n\n\n\n\n\n\n\n\n\nOct 5, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nJoining data with Pandas\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nConditional Mutation\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\nNo matching items"
+    "text": "Working with Strings in R\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 11, 2024\n\n\nThe GRAPH Network Member\n\n\n\n\n\n\n\n\n\n\n\n\nFundamentals of Statistical Software & Analysis\n\n\n\n\n\n\nstatistic\n\n\npublic health\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 10, 2024\n\n\nLawal’s note\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE 16: WORKING WITH DATES AND TIMES IN PYTHON\n\n\n\n\n\n\ncode\n\n\nnote\n\n\npython\n\n\n\n\n\n\n\n\n\nOct 17, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE 15: CLEANING DATA IN PYTHON\n\n\n\n\n\n\ncode\n\n\nnote\n\n\npython\n\n\n\n\n\n\n\n\n\nOct 5, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nJoining data with Pandas\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nConditional Mutation\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Note/welcome/netflix.html",
@@ -204,7 +204,7 @@
     "href": "index.html#professional-development-training",
     "title": "Omotola Ayodele Lawal",
     "section": "Professional Development Training",
-    "text": "Professional Development Training\nFundamentals of Statistical Software & Analysis (FoSSA) | University of Oxford Medical Sciences Division | August 2024 - Present\nSELF-PACED: Data Analysis & Statistics Sequence | The Global Research and Analysis for Public Health Network | June 2024 - Present\nAssociate Data Science Course in Python | DataCamp Inc | April 2024 - Present"
+    "text": "Professional Development Training\nSELF-PACED: Data Analysis & Statistics Sequence | The Global Research and Analysis for Public Health Network | June 2024 - Present\nAssociate Data Science Course in Python | DataCamp Inc | April 2024 - Present\nFundamentals of Statistical Software & Analysis (FoSSA) | University of Oxford Medical Sciences Division | August 2024 - November 2024"
   },
   {
     "objectID": "Note/Clean data/Clean_data.html",
@@ -233,5 +233,19 @@
     "title": "PROJECT | EXPLORING AIRBNB MARKET TRENDS",
     "section": "",
     "text": "Welcome to New York City, one of the most-visited cities in the world. There are many Airbnb listings in New York City to meet the high demand for temporary lodging for travelers, which can be anywhere between a few nights to many months. In this project, we will take a closer look at the New York Airbnb market by combining data from multiple file types like .csv, .tsv, and .xlsx. Check the project here"
+  },
+  {
+    "objectID": "Note/FoSSa/fossa.html",
+    "href": "Note/FoSSa/fossa.html",
+    "title": "Fundamentals of Statistical Software & Analysis",
+    "section": "",
+    "text": "I completed the Fundamentals of Statistical Software and Analysis course, which comprises seven modules. The course is designed to teach students about statistical tests and software code used in medical sciences. Check this note for some details."
+  },
+  {
+    "objectID": "Note/Strings/Strings.html",
+    "href": "Note/Strings/Strings.html",
+    "title": "Working with Strings in R",
+    "section": "",
+    "text": "Completing this course has made me proficient in string manipulation, a crucial skill for data scientists. Tasks such as cleaning messy data and formatting outputs rely heavily on the ability to parse, combine, and modify character strings. This lesson focuses on techniques for working with strings in R, using functions from the {stringr} package in the tidyverse. You can refer here for further review"
   }
 ]

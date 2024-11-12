@@ -1,0 +1,11 @@
+---
+title: "Working with Strings in R"
+author: "The GRAPH Network Member"
+date: "2024-11-11"
+categories: [code, analysis, R]
+image: "SKYBLUE3.jpeg"
+---
+
+Completing this course has made me proficient in string manipulation, a crucial skill for data scientists. Tasks such as cleaning messy data and formatting outputs rely heavily on the ability to parse, combine, and modify character strings. This lesson focuses on techniques for working with strings in R, using functions from the {`stringr`} package in the tidyverse. You can refer [here](https://lawaloa.github.io/Strings/){target="_blank"} for further review
+
+![](SKYBLUE3.jpeg)
