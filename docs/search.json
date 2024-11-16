@@ -176,7 +176,7 @@
     "href": "Note.html",
     "title": "Courses & Exercises",
     "section": "",
-    "text": "Dates 1: Recognizing and Formatting Dates\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 13, 2024\n\n\nThe GRAPH Network\n\n\n\n\n\n\n\n\n\n\n\n\nFactors in R\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 12, 2024\n\n\nThe GRAPH Network\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with Strings in R\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 11, 2024\n\n\nThe GRAPH Network Member\n\n\n\n\n\n\n\n\n\n\n\n\nFundamentals of Statistical Software & Analysis\n\n\n\n\n\n\nstatistic\n\n\npublic health\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 10, 2024\n\n\nLawal’s note\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE 16: WORKING WITH DATES AND TIMES IN PYTHON\n\n\n\n\n\n\ncode\n\n\nnote\n\n\npython\n\n\n\n\n\n\n\n\n\nOct 17, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE 15: CLEANING DATA IN PYTHON\n\n\n\n\n\n\ncode\n\n\nnote\n\n\npython\n\n\n\n\n\n\n\n\n\nOct 5, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nJoining data with Pandas\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nConditional Mutation\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\nNo matching items"
+    "text": "Dates 2: Intervals, Components and Rounding\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 16, 2024\n\n\nThe GRAPH Network\n\n\n\n\n\n\n\n\n\n\n\n\nDates 1: Recognizing and Formatting Dates\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 13, 2024\n\n\nThe GRAPH Network\n\n\n\n\n\n\n\n\n\n\n\n\nFactors in R\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 12, 2024\n\n\nThe GRAPH Network\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with Strings in R\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 11, 2024\n\n\nThe GRAPH Network Member\n\n\n\n\n\n\n\n\n\n\n\n\nFundamentals of Statistical Software & Analysis\n\n\n\n\n\n\nstatistic\n\n\npublic health\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 10, 2024\n\n\nLawal’s note\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE 16: WORKING WITH DATES AND TIMES IN PYTHON\n\n\n\n\n\n\ncode\n\n\nnote\n\n\npython\n\n\n\n\n\n\n\n\n\nOct 17, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nCOURSE 15: CLEANING DATA IN PYTHON\n\n\n\n\n\n\ncode\n\n\nnote\n\n\npython\n\n\n\n\n\n\n\n\n\nOct 5, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nJoining data with Pandas\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nSep 4, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\n\n\n\n\n\n\nConditional Mutation\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nSep 2, 2024\n\n\nOmotola Ayodele Lawal\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Note/welcome/netflix.html",
@@ -261,5 +261,12 @@
     "title": "Dates 1: Recognizing and Formatting Dates",
     "section": "",
     "text": "Manipulating dates is a crucial skill in health data analysis, as date-related data, from patient admission dates to vaccination schedules, plays a vital role in epidemiological studies. To strengthen this skill, I completed part 1 of the course, which covered how R stores and displays dates and provided techniques for effectively manipulating, parsing, and formatting them. You can refer here for further review"
+  },
+  {
+    "objectID": "Note/date_2/date_2.html",
+    "href": "Note/date_2/date_2.html",
+    "title": "Dates 2: Intervals, Components and Rounding",
+    "section": "",
+    "text": "Building on the knowledge gained in Part 1 of the course on date analysis in R, this lesson helped me strengthen my ability to perform basic date analyses. I learned techniques such as calculating intervals between dates and creating time series graphs. These skills are essential for health data professionals, as they form the foundation for understanding temporal patterns, including disease progression over time and fluctuations in population health metrics across various periods. You can refer here for further review"
   }
 ]
