@@ -1,0 +1,11 @@
+---
+title: "Joining 2: Mismatched Values, One-to-Many & Multi-Key Joins"
+author: "The GRAPH Network"
+date: "2024-11-18"
+categories: [code, analysis, R]
+image: "graph.png"
+---
+
+Building on the knowledge gained in [Part 1 of the course on joining datasets in R](https://lawaloa.github.io/join/){target="_blank"}, this lesson enhanced my ability to work with messier and more complex datasets. I learned how to identify mismatched values between data frames, perform joins using one-to-many matches, and execute joins based on multiple key columns. For further review, check [here](https://lawaloa.github.io/join_2/){target="_blank"}.
+
+![](graph.png)

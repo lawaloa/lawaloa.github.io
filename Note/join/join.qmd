@@ -1,0 +1,11 @@
+---
+title: "Intro to Joining Datasets"
+author: "The GRAPH Network"
+date: "2024-11-17"
+categories: [code, analysis, R]
+image: "graph.png"
+---
+
+Joining datasets is an essential skill in health data analysis, enabling the integration of information from multiple sources for more comprehensive and insightful analyses. Completing Part 1 of this course has equipped me with the knowledge to apply various joining techniques using R’s dplyr package. Check [here](https://lawaloa.github.io/join/){target="_blank"} for further review
+
+![](graph.png)
