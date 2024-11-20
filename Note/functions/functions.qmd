@@ -1,0 +1,25 @@
+---
+title: "Lesson Notes: Intro to Functions and Conditionals"
+author: "The GRAPH Network"
+date: "2024-11-20"
+categories: [code, analysis, R]
+image: "graph.png"
+---
+
+The R language revolves around two fundamental components: objects and functions. Objects are the data structures used to store information, while functions are the tools used to manipulate these objects. As paraphrased from [John Chambers](https://statweb.stanford.edu/~jmc4/vitae.html){target="_blank"}, one of R's originators, "everything that exists in R is an object, and everything that happens is a function."
+
+Mastering the creation and use of functions enables automation of repetitive tasks, enhances efficiency, and reduces coding errors.
+
+Through this lesson, I have gained the ability to:
+
+1. Create and use custom functions in R.
+2. Design function arguments and define default values.
+3. Incorporate conditional logic, such as `if`, `else if`, and `else`, within functions.
+4. Validate function arguments to prevent errors.
+5. Manage function scope and understand the differences between local and global variables.
+6. Work with vectorized data within functions.
+7. Organize and store custom functions for future use.
+
+For further review, check [here](https://lawaloa.github.io/functions/){target="_blank"}.
+
+![](graph.png)
