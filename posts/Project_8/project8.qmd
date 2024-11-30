@@ -1,0 +1,12 @@
+---
+title: "PROJECT | BUILDING A CALORIE INTAKE CALCULATOR"
+author: "Omotola Ayodele Lawal"
+date: "2024-11-30"
+categories: [Project]
+---
+
+![](image.jpg)
+
+This project aimed to enhance the app of a Health and Leisure company by adding a new feature: a calorie and nutrition calculator. The tool allows users to input different foods and calculates their total calories, sugars, fats, and other nutritional values.
+
+Check the project [here](https://lawaloa.github.io/Project_8/){target="_blank"}.
