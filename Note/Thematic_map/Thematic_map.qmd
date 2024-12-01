@@ -1,0 +1,28 @@
+---
+title: "Thematic Maps"
+author: "The GRAPH Network"
+date: "2024-12-1"
+categories: [code, note, Geospatial, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+After completing this course, I have gained the following skills:
+
+1.  **Understanding Thematic Maps**:
+
+-   I can identify and explain two key types of thematic maps commonly used in epidemiology:
+
+    -   **Choropleth Maps**: Used to represent spatial data variations based on areas.
+    -   **Dot Maps**: Used to show the distribution of phenomena using dots or symbols.
+
+2.  **Creating Thematic Maps**:
+
+-   I can effectively create thematic maps in R using the `{ggplot2}` package and the `geom_sf()` function, leveraging its flexibility to visualize geospatial data.
+
+3.  **Relating Maps to Geometry Types**:
+
+-   I have learned how each type of thematic map aligns with specific geometry types, enhancing the accuracy and relevance of data visualization.
+
+For a detailed walkthrough and examples, please visit [this site](https://lawaloa.github.io/Thematic_map/){target="_blank"}.
