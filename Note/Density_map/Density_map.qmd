@@ -1,0 +1,19 @@
+---
+title: "Density Map"
+author: "The GRAPH Network"
+date: "2024-12-3"
+categories: [code, note, Geospatial, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+
+A **density map** is a type of thematic map that uses colors to represent the *intensity* of a value. Unlike traditional maps, it doesn't rely on predefined regions or geopolitical boundaries but highlights 'hot spots'—areas with high density or concentration of points.
+
+Through this course, I gained the skills to:
+
+- Build *density maps* commonly used by epidemiologists to visualize overlapping geospatial data.
+- Enhance **thematic maps** with **basemaps** (Google Maps-like backgrounds) using the `annotation_map_tile()` function from the `{ggspatial}` package.
+
+Check out [this site](https://lawaloa.github.io/Density_map/){target="_blank"} for a beginner-friendly overview and examples.
