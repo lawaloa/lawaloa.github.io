@@ -1,0 +1,20 @@
+---
+title: "Read and Write Shapefiles"
+author: "The GRAPH Network"
+date: "2024-12-6"
+categories: [code, note, Geospatial, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+Completing this course equipped me with valuable skills to:
+
+- Read spatial data from **Shapefiles** using the `read_sf()` function from the `{sf}` package.
+
+- Understand the components of `sf` **objects** and **Shapefiles**.
+
+- Write spatial data into **Shapefiles** using `write_sf()`.
+
+
+Explore [this site](https://lawaloa.github.io/read_sf/){target="_blank"} for a beginner-friendly overview and examples.
