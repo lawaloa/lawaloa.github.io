@@ -1,0 +1,23 @@
+---
+title: "Boundary Data"
+author: "The GRAPH Network"
+date: "2024-12-17"
+categories: [code, note, Geospatial, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+Country **borders** and **boundaries** serve multiple purposes. They can be used as a background in thematic maps, as delimiters for other spatial data, or to identify spread patterns and calculate the intersection between spatial objects (e.g., points within polygons).
+
+Accessing this type of data may produce *different outputs*, such as **low- or high-resolution borders or varying administrative levels**. The choice of resolution or administrative detail depends on your specific requirements.
+
+In this lesson, I learned how to access:
+
+- **Low-resolution boundaries** of continents and countries using the `{rnaturalearth}` package.
+
+- **High-resolution boundaries** of continents and countries with the `{rgeoboundaries}` package.
+
+- Additional geographic data using the `{geodata}` package.
+
+Explore [this site](https://lawaloa.github.io/boundary_data/){target="_blank"} for a beginner-friendly overview and examples.
