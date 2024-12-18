@@ -13,26 +13,27 @@ about:
     - icon: github
       text: Github
       href: https://github.com/lawaloa
+    - icon: envelope
+      text: Email
+      href: "mailto:lawalomotola4@gmail.com"   
 ---
 
-I am a chaste, clinically and patient-oriented medical doctor. A mature team worker and adaptable to all challenging circumstances, able to work well in a team environment and use initiative. Outside of patient care, I enjoys learning data science and guiding high school graduates on career choices.
-
+I am a dedicated and detail-oriented medical doctor with a strong focus on clinical care and patient-centered solutions. I excel in collaborative environments, adapt quickly to challenging circumstances, and take the initiative to drive results. Beyond my medical practice, I am passionate about leveraging data science to uncover insights and solve complex problems. I also enjoy mentoring high school graduates, helping them make informed decisions about their career paths.
 
 ## Education
 
-University of Ibadan, Ibadan | Oyo State, Nigeria
-MB;BS | May 2015 - November 2022
+University of Ibadan, Ibadan \| Oyo State, Nigeria MB;BS \| May 2015 - November 2022
 
 ## Experience
 
-Nigerian Navy Reference Hospital, Ojo, Lagos, Nigeria | Medical Officer | February 2024 - Present
+Nigerian Navy Reference Hospital, Ojo, Lagos, Nigeria \| Medical Officer \| February 2024 - Present
 
-Federal Medical Center, Owo | House Officer | January 2023 - January 2024
+Federal Medical Center, Owo \| House Officer \| January 2023 - January 2024
 
 ## Professional Development Training
 
-SELF-PACED: Data Analysis & Statistics Sequence | The Global Research and Analysis for Public Health Network | June 2024 - Present
+SELF-PACED: Data Analysis & Statistics Sequence \| The Global Research and Analysis for Public Health Network \| June 2024 - Present
 
-Associate Data Science Course in Python | DataCamp Inc | April 2024 - Present
+Associate Data Science Course in Python \| DataCamp Inc \| April 2024 - Present
 
-Fundamentals of Statistical Software & Analysis (FoSSA) | University of Oxford Medical Sciences Division | August 2024 - November 2024
+Fundamentals of Statistical Software & Analysis (FoSSA) \| University of Oxford Medical Sciences Division \| August 2024 - November 2024

@@ -21,7 +21,9 @@ website:
         href: https://github.com/lawaloa
       - icon: twitter
         href: https://twitter.com/@LawalOmotola20
- 
+      - icon: envelope
+        href: "mailto:lawalomotola4@gmail.com"
+  
   sidebar:
    - title: "Portfolio"
      style: "docked"
