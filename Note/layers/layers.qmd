@@ -1,0 +1,13 @@
+---
+title: "Layers"
+author: "The GRAPH Network"
+date: "2024-12-22"
+categories: [code, note, Geospatial, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+In this lesson, I learned to enhance ggplot maps by using the `{ggspatial}` package to add north arrows and scale annotations, and the `{ggsflabel}` package to incorporate text and labels effectively.
+
+For more insights, check it out on [this site](https://lawaloa.github.io/layers/){target="_blank"}.
