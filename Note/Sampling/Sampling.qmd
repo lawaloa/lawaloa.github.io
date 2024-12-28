@@ -1,0 +1,30 @@
+---
+title: "COURSE 19 | SAMPLING AND POINT IN PYTHON"
+author: "Omotola Ayodele Lawal"
+date: "2024-12-26"
+categories: [code, note, python]
+image: "Sampling.jpg"
+---
+
+![](Sampling.jpg)
+
+Completing the course on **Sampling and Point Estimation in Python** has provided me with a thorough understanding of key concepts and techniques in statistical sampling. Below is a summary of my learning journey:
+
+1.  **Introduction to Sampling**: I explored what sampling is and why it is such a powerful statistical tool. I also delved into the challenges posed by convenience sampling and the differences between true randomness and pseudo-randomness in data generation.
+
+2.  **Hands-On Sampling Methods**: Through practical exercises, I applied four core random sampling techniques in Python:
+
+-   **Simple Sampling**
+-   **Systematic Sampling**
+-   **Stratified Sampling**
+-   **Cluster Sampling**
+
+2.  **Evaluating Sample Accuracy**: I learned to quantify the accuracy of sample statistics by calculating relative errors. Additionally, I gained insights into measuring variation in sample estimates by generating and analyzing sampling distributions.
+
+3.  **Resampling and Bootstrap Techniques**: Resampling methods were introduced as tools for estimating variation in unknown populations. I practiced bootstrapping techniques to generate bootstrap distributions and learned to distinguish them from sampling distributions.
+
+4.  **Confidence Intervals**: Finally, I formalized the concept of confidence intervals to assess the reliability of statistical estimates. This included understanding the importance of values within one standard deviation of the mean and their role in describing distributions.
+
+This comprehensive course equipped me with practical skills and theoretical insights into sampling and statistical analysis in Python, strengthening my ability to draw meaningful conclusions from data.
+
+Check [here](https://lawaloa.github.io/Sampling/){target="_blank"} for details.

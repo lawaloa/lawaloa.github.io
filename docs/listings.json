@@ -17,6 +17,7 @@
   {
     "listing": "/Note.html",
     "items": [
+      "/Note/Sampling/Sampling.html",
       "/Note/layers/layers.html",
       "/Note/boundary_data/boundary_data.html",
       "/Note/read_sf/read_sf.html",
