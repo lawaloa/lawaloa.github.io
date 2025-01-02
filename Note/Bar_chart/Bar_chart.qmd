@@ -1,0 +1,29 @@
+---
+title: "Bar Charts & Pie Charts"
+author: "The GRAPH Network"
+date: "2024-12-29"
+categories: [code, note, Data Reporting, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+During this learning journey, I have developed a clear understanding of key concepts and skills for data visualization:
+
+1.  **Comparisons vs. Compositions**
+
+-   Differentiated between visualizing comparisons (showing differences between categories) and visualizing compositions (showing parts of a whole).
+
+-   Learned to identify appropriate chart types for these two types of analysis.
+
+2.  **Bar Charts**
+
+-   Created and customized bar charts for comparing categorical data using `geom_col()`, `geom_errorbar()`, and position adjustments.
+
+3.  **Pie Charts**
+
+-   Designed and customized pie charts to visualize compositions using `coord_polar()` with `geom_col()`.
+
+These skills have enhanced my ability to present data effectively for comparison and composition analysis using `{ggplot2}`.
+
+For more insights, check it out on [this site](https://lawaloa.github.io/Bar_chart/){target="_blank"}.

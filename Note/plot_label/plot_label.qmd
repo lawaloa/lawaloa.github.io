@@ -1,0 +1,30 @@
+---
+title: "Plot Labels with ggplot2"
+author: "The GRAPH Network"
+date: "2025-1-1"
+categories: [code, note, Data Reporting, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+Bar plots are among the most versatile chart types, with numerous variations for visualizing data. In a [previous lesson](https://lawaloa.github.io/Bar_chart/){target="_blank"}, I learned how to create bar plots and their circular counterparts using `{ggplot2}`. Building on that foundation, this lesson focused on enhancing visualizations through effective labeling and data transformation.
+
+Key takeaways from this lesson include:
+
+1. **Using Text Geoms for Labeling**
+- Applied `geom_text()` for simple labels.
+- Used `geom_label()` for more emphasized labels.
+
+2. **Data Preparation**
+- Transformed and summarized data into the appropriate formats for various chart types.
+
+3. **Label Placement on Bar Plots**
+- Positioned labels accurately on stacked, dodged, and percent-stacked bar plots.
+
+4. **Label Placement on Circular Charts**
+- Adjusted label placement effectively on pie charts and donut plots.
+
+This lesson significantly improved my skills in creating and customizing labeled bar and circular plots, ensuring clear and effective data communication.
+
+For more insights, check it out on [this site](https://lawaloa.github.io/Plot_Label/){target="_blank"}.

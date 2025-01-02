@@ -17,6 +17,9 @@
   {
     "listing": "/Note.html",
     "items": [
+      "/Note/plot_label/plot_label.html",
+      "/Note/Bar_chart/Bar_chart.html",
+      "/Note/demographics/demographics.html",
       "/Note/Sampling/Sampling.html",
       "/Note/layers/layers.html",
       "/Note/boundary_data/boundary_data.html",

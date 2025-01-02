@@ -1,0 +1,36 @@
+---
+title: "Demographic Pyramids for Epidemiological Analysis"
+author: "The GRAPH Network"
+date: "2024-12-29"
+categories: [code, note, Data Reporting, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+A demographic pyramid, also known as a population or age-sex pyramid, is a powerful tool for visualizing population distribution by **age** and **sex**.
+
+This tool becomes particularly valuable when analyzing disease patterns across these demographic variables.
+
+Through this learning experience, I have gained the following skills and insights:
+
+1.  **Understanding the Value of Demographic Pyramids**:
+
+-   Recognized their importance in communicating **age- and sex-specific patterns** of disease distribution.
+-   Conceptualized **the demographic pyramid** as a modified **stacked bar plot**.
+
+2.  **Data Preparation**
+
+-   Learned to **summarize and structure data** for plotting using `{dplyr}` functions.
+
+3.  **Plotting with** `{ggplot2}`
+
+-   **Created demographic pyramids** with `geom_col()`, displaying total counts or percentages on the x-axis.
+
+4.  **Customization**
+
+-   Enhanced plots by adjusting the color scheme, labels, and axes for clear communication and visual appeal.
+
+This comprehensive learning journey has equipped me with the skills to effectively use demographic pyramids for epidemiological analysis.
+
+For more insights, check it out on [this site](https://lawaloa.github.io/Demo_Pyramid/){target="_blank"}.
