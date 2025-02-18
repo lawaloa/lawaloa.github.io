@@ -17,6 +17,8 @@
   {
     "listing": "/Note.html",
     "items": [
+      "/Note/Disease_Mapping/Disease_mapping.html",
+      "/Note/Labelling_map/Labelling_map.html",
       "/Note/plot_label/plot_label.html",
       "/Note/Bar_chart/Bar_chart.html",
       "/Note/demographics/demographics.html",

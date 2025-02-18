@@ -9,7 +9,7 @@ about:
       href: https://twitter.com/@LawalOmotola20
     - icon: linkedin
       text: LinkedIn
-      href: https://bit.ly/4bQdkil
+      href: https://www.linkedin.com/in/omotola-lawal-541b9b131
     - icon: github
       text: Github
       href: https://github.com/lawaloa

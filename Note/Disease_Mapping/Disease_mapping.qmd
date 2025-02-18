@@ -1,0 +1,43 @@
+---
+title: "Creating Choropleth maps with {ggplot2}"
+author: "The GRAPH Network"
+date: "2025-02-18"
+categories: [code, note, Data Reporting, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+A **choropleth map** is a powerful thematic map where geographic regions are shaded or patterned based on the value of a specific variable. These maps are widely used in epidemiology, helping to visualize indicators such as **disease prevalence** or **mortality rates** across different regions. By displaying spatial patterns effectively, choropleth maps enhance data-driven decision-making.
+
+# Key Skills Acquired
+
+Through this course, I have gained expertise in:
+
+1.  **Choropleth Maps with** \`{ggplot2}
+
+-   Master the `ggplot()` and `geom_sf()` functions for creating visually appealing maps.
+
+-   Learn how to customize map aesthetics, including colors, labels, and legends.
+
+2.  **Data Matching with Geographic Polygons**
+
+-   Acquiring and integrating boundary data with disease-related datasets.
+
+-   Merging spatial and statistical data at different administrative levels.
+
+3.  **Color Scaling Techniques**
+
+-   Implement color scales for both continuous and discrete data types.
+
+-   Choose appropriate color palettes to effectively communicate data trends and patterns.
+
+4.  **Faceting for Map Visualization**
+
+-   Use `facet_wrap()` and `facet_grid()` to create small multiple maps.
+
+-   Compare multiple variables or time periods side by side for deeper insights.
+
+By mastering these techniques, I can now create **insightful, data-driven maps** that reveal meaningful geographic trends.
+
+For a detailed walkthrough and examples, please visit [this site](https://lawaloa.github.io/Disease_Mapping/){target="_blank"}.
