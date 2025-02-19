@@ -1,0 +1,37 @@
+---
+title: "Organizing Public Health Data with gt Tables in R - Basics"
+author: "The GRAPH Network"
+date: "2025-02-19"
+categories: [code, note, Data Reporting, Grammar of tables, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+Tables are an essential tool for presenting data in a structured, clear, and visually appealing format. With R and the `gt` package, we can create highly customizable tables that enhance data analysis and storytelling.
+
+In this lesson, I mastered techniques to design aesthetically pleasing tables that effectively communicate insights.
+
+# Key Skills Gained
+
+1.  **Creating Tables with** `gt()`
+
+-   Learn to build well-structured tables using the gt() function in R.
+
+2.  **Grouping Columns Under Spanner Headings**
+
+-   Organize related columns under shared headings for better clarity and structure.
+
+3.  **Adding Stubs for Row Labels**
+
+-   Implement stubs to provide descriptive labels for rows, improving interpretability.
+
+4.**Renaming Column Headers**
+
+-   Customize column names for enhanced readability and contextual relevance.
+
+5.  **Incorporating Summary Rows**
+
+-   Add aggregate data (e.g., sums, averages) to summarize key insights within grouped data.
+
+**For a step-by-step guide with practical examples, visit** [this site](https://lawaloa.github.io/Organizing_with_gt/){target="_blank"}.
