@@ -2,7 +2,7 @@
 title: "Creating Choropleth maps with {ggplot2}"
 author: "The GRAPH Network"
 date: "2025-02-18"
-categories: [code, note, Data Reporting, R]
+categories: [code, note, The GRAPH Course, Data Reporting, Epidemiology, Geospatial, Data Visualization, R]
 image: "graph.png"
 ---
 

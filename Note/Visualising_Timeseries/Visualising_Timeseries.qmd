@@ -1,0 +1,30 @@
+---
+title: "Epidemiological Time Series Visualization"
+date: "2025-02-25"
+categories: [code, note, The GRAPH Course, Epidemiology, Data Reporting, Data Visualization, Timeseries, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+## Mastering Time Series Visualization for Epidemiology
+
+Understanding `time series data` is crucial in epidemiology—it helps uncover trends, detect disease outbreaks, and drive data-informed decisions for better health outcomes.
+
+In my latest learning journey, I explored how to leverage `ggplot2` and the `tidyverse` to visualize time series data effectively.
+
+## Key Skills Gained
+
+1.  Reshaping time series data using `pivot_longer()` for better plotting.
+
+2. Creating clear and insightful **line graphs** in `ggplot2`.
+
+3. Enhancing visualization aesthetics with **custom labels**, **color palettes**, and **annotations**.
+
+4. Ability to use `geom_ribbon()` to display **confidence intervals**.
+
+5. Applying smoothing techniques to highlight **patterns in noisy data**.
+
+6. Comparing multiple time series using **dual axes** with `sec_axis()`
+
+**For a step-by-step guide with practical examples, visit** [this site](https://lawaloa.github.io/Visualising_Timeseries/){target="_blank"}.

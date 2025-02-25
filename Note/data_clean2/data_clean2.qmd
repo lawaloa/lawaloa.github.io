@@ -2,16 +2,16 @@
 title: "Data Cleaning 2: Fixing Inconsistencies"
 author: "The GRAPH Network"
 date: "2024-11-22"
-categories: [code, note, R]
+categories: [code, note, The GRAPH Course, Data Cleaning, R]
 image: "graph.png"
 ---
 
 Building on the knowledge from [the previous lesson](https://lawaloa.github.io/data_clean_1/){target="_blank"} , where I explored various functions for diagnosing data issues, completing this lesson has enabled me to:
 
-- Understand and apply techniques to clean column names, both automatically and manually.
-- Effectively remove duplicate entries from datasets.
-- Correct and standardize string values in data.
-- Convert data types to suit specific requirements.
+-   Understand and apply techniques to clean column names, both automatically and manually.
+-   Effectively remove duplicate entries from datasets.
+-   Correct and standardize string values in data.
+-   Convert data types to suit specific requirements.
 
 Check [here](https://lawaloa.github.io/data_clean_2/){target="_blank"} for details.
 

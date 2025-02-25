@@ -2,7 +2,7 @@
 title: "Organizing Public Health Data with gt Tables in R - Basics"
 author: "The GRAPH Network"
 date: "2025-02-19"
-categories: [code, note, Data Reporting, Grammar of tables, R]
+categories: [code, note, The GRAPH Course, Data Reporting, Grammar of tables, R]
 image: "graph.png"
 ---
 

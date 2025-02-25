@@ -2,7 +2,8 @@
 title: "Investigating the Netflix Movies"
 author: "Lawal Omotola"
 date: "2024-09-01"
-categories: [Project]
+categories: [Project, DataCamp]
+image: "Movie Duration by Year of Release.png"
 ---
 
 This is the second project published in my portfolio. You can find it [here](https://github.com/lawaloa/Investigating_Netflix_Movies_1){target="_blank"}

@@ -2,10 +2,12 @@
 title: "Dates 1: Recognizing and Formatting Dates"
 author: "The GRAPH Network"
 date: "2024-11-13"
-categories: [code, analysis, R]
+categories: [code, note, The GRAPH Course, Timeseries, R]
 image: "graph.png"
 ---
 
+![](graph.png)
+
 Manipulating dates is a crucial skill in health data analysis, as date-related data, from patient admission dates to vaccination schedules, plays a vital role in epidemiological studies. To strengthen this skill, I completed part 1 of the course, which covered how R stores and displays dates and provided techniques for effectively manipulating, parsing, and formatting them. You can refer [here](https://lawaloa.github.io/date_1/){target="_blank"} for further review
 
-![](graph.png)
+

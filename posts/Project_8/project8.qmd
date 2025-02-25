@@ -2,7 +2,8 @@
 title: "PROJECT | BUILDING A CALORIE INTAKE CALCULATOR"
 author: "Omotola Ayodele Lawal"
 date: "2024-11-30"
-categories: [Project]
+categories: [Project, DataCamp]
+image: "image.jpg"
 ---
 
 ![](image.jpg)

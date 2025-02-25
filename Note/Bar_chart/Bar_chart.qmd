@@ -2,7 +2,7 @@
 title: "Bar Charts & Pie Charts"
 author: "The GRAPH Network"
 date: "2024-12-29"
-categories: [code, note, Data Reporting, R]
+categories: [code, note, Data Reporting, Data Visualization, R]
 image: "graph.png"
 ---
 

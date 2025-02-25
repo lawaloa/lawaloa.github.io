@@ -2,7 +2,7 @@
 title: "Lesson Notes: Intro to Functions and Conditionals"
 author: "The GRAPH Network"
 date: "2024-11-20"
-categories: [code, analysis, R]
+categories: [code, note, The GRAPH Course, functions,  R]
 image: "graph.png"
 ---
 
@@ -12,13 +12,13 @@ Mastering the creation and use of functions enables automation of repetitive tas
 
 Through this lesson, I have gained the ability to:
 
-1. Create and use custom functions in R.
-2. Design function arguments and define default values.
-3. Incorporate conditional logic, such as `if`, `else if`, and `else`, within functions.
-4. Validate function arguments to prevent errors.
-5. Manage function scope and understand the differences between local and global variables.
-6. Work with vectorized data within functions.
-7. Organize and store custom functions for future use.
+1.  Create and use custom functions in R.
+2.  Design function arguments and define default values.
+3.  Incorporate conditional logic, such as `if`, `else if`, and `else`, within functions.
+4.  Validate function arguments to prevent errors.
+5.  Manage function scope and understand the differences between local and global variables.
+6.  Work with vectorized data within functions.
+7.  Organize and store custom functions for future use.
 
 For further review, check [here](https://lawaloa.github.io/functions/){target="_blank"}.
 

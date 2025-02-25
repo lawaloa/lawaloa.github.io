@@ -2,7 +2,7 @@
 title: "COURSE 18 | INTRODUCTION TO REGRESSION WITH STATSMODELS IN PYTHON"
 author: "Omotola Ayodele Lawal"
 date: "2024-11-21"
-categories: [code, note, python]
+categories: [code, note, DataCamp, Statistic, python]
 image: "Regress_1.jpg"
 ---
 
@@ -10,24 +10,22 @@ image: "Regress_1.jpg"
 
 Completing the course on **Introduction to Regression with statsmodels in Python**, I gained a comprehensive understanding of regression analysis and its application in Python. Here's a summary of what I learned:
 
-1. **Fundamentals of Regression**: I learned the basics of regression analysis, including the difference between linear and logistic regression models.
+1.  **Fundamentals of Regression**: I learned the basics of regression analysis, including the difference between linear and logistic regression models.
 
-2. **Fitting Simple Linear Regression Models**: I explored how to fit linear regression models with both numeric and categorical explanatory variables and how to interpret model coefficients to describe relationships between the response and explanatory variables.
+2.  **Fitting Simple Linear Regression Models**: I explored how to fit linear regression models with both numeric and categorical explanatory variables and how to interpret model coefficients to describe relationships between the response and explanatory variables.
 
-3. **Making Predictions**: I learned how to use linear regression models to make predictions on various datasets, providing actionable insights from the model's outputs.
+3.  **Making Predictions**: I learned how to use linear regression models to make predictions on various datasets, providing actionable insights from the model's outputs.
 
-4. **Regression to the Mean**: I gained an understanding of the concept of “regression to the mean” and its implications in statistical analysis.
+4.  **Regression to the Mean**: I gained an understanding of the concept of “regression to the mean” and its implications in statistical analysis.
 
-5. **Transforming Variables**: I explored techniques to transform variables in a dataset to improve model performance and interpretability.
+5.  **Transforming Variables**: I explored techniques to transform variables in a dataset to improve model performance and interpretability.
 
-6. **Model Assessment**: I learned how to evaluate the fit of a regression model by asking specific questions and using diagnostic techniques to assess its accuracy.
+6.  **Model Assessment**: I learned how to evaluate the fit of a regression model by asking specific questions and using diagnostic techniques to assess its accuracy.
 
-7. **Model Diagnostics**: I discovered how to quantify the quality of model fits, diagnose problems with visualizations, and understand the influence of each observation, including its leverage, on the final model.
+7.  **Model Diagnostics**: I discovered how to quantify the quality of model fits, diagnose problems with visualizations, and understand the influence of each observation, including its leverage, on the final model.
 
-8. **Fitting Logistic Regression Models**: I learned how to fit logistic regression models, focusing on real-world applications. For example, I predicted the likelihood of a customer closing their bank account, interpreted probabilities of success, and understood odds ratios.
+8.  **Fitting Logistic Regression Models**: I learned how to fit logistic regression models, focusing on real-world applications. For example, I predicted the likelihood of a customer closing their bank account, interpreted probabilities of success, and understood odds ratios.
 
-9. **Model Performance Evaluation**: I also learned how to assess model performance using confusion matrices, which help quantify the effectiveness of logistic regression predictions.
+9.  **Model Performance Evaluation**: I also learned how to assess model performance using confusion matrices, which help quantify the effectiveness of logistic regression predictions.
 
- Check [here](https://lawaloa.github.io/Regression_1/){target="_blank"} for details.
-
-
+Check [here](https://lawaloa.github.io/Regression_1/){target="_blank"} for details.

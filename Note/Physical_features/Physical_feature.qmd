@@ -2,7 +2,7 @@
 title: "Physical Features"
 author: "The GRAPH Network"
 date: "2024-12-2"
-categories: [code, note, Geospatial, R]
+categories: [code, note, The GRAPH Course, Geospatial, Data Visualization, R]
 image: "graph.png"
 ---
 

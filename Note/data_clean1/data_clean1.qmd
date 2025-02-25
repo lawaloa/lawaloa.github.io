@@ -2,22 +2,22 @@
 title: "Data Cleaning 1: Data Diagnostics"
 author: "The GRAPH Network"
 date: "2024-11-21"
-categories: [code, note, R]
+categories: [code, note, The GRAPH Course, Data Cleaning, R]
 image: "graph.png"
 ---
+
+![](graph.png)
 
 Data cleaning is the process of converting raw, "messy data" into reliable, analyzable information. This involves identifying and addressing **inaccurate**, **incomplete**, or **improbable** data points, resolving inconsistencies or errors, and renaming variables to make them clearer and easier to work with. While data cleaning can often be tedious and time-consuming, it is a crucial step in the data analysis process. Investing time in cleaning your data early on significantly enhances the quality of your analyses and simplifies the analytical workflow.
 
 After completing this lesson, I am now able to diagnose dataset issues requiring cleaning using functions such as:
 
-1. `visdat::vis_dat()`
+1.  `visdat::vis_dat()`
 
-2. `inspectdf::inspect_cat()`
+2.  `inspectdf::inspect_cat()`
 
-3. `inspectdf::inspect_num()`
+3.  `inspectdf::inspect_num()`
 
-4. `gtsummary::tbl_summary()`
+4.  `gtsummary::tbl_summary()`
 
 Check [here](https://lawaloa.github.io/data_clean_1/){target="_blank"} for details.
-
-![](graph.png)

@@ -2,10 +2,10 @@
 title: "Conditional Mutation"
 author: "Omotola Ayodele Lawal"
 date: "2024-09-02"
-categories: [code, analysis, r]
-image: "image.jpg"
+categories: [code, note, The GRAPH Course, Conditional, R]
+image: "graph.png"
 ---
 
-This was a quiz on the topic: **`Conditional Mutation`**. You can find the project [here](https://lawaloa.github.io/Conditional_Mutation/){target="_blank"}
+![](graph.png)
 
-![](image.jpg)
+This was a quiz on the topic: **`Conditional Mutation`**. You can find the project [here](https://lawaloa.github.io/Conditional_Mutation/){target="_blank"}

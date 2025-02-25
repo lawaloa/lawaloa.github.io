@@ -2,7 +2,7 @@
 title: "Intro to Joining Datasets"
 author: "The GRAPH Network"
 date: "2024-11-17"
-categories: [code, analysis, R]
+categories: [code, note, The GRAPH Course, Data Manipulation, Data Joining, R]
 image: "graph.png"
 ---
 

@@ -2,18 +2,18 @@
 title: "Loops, Across, and Conditionals"
 author: "The GRAPH Network"
 date: "2024-11-19"
-categories: [code, analysis, R]
+categories: [code, note, The GRAPH Course, Conditional, R]
 image: "graph.png"
 ---
 
 Repetition is a fundamental concept in programming, often essential for automating tasks. In R, a **for loop** provides an efficient way to repeat a task multiple times, saving both time and effort. Through the course, I have gained the ability to:
 
-1. **Explain the syntax and structure** of a basic for loop in R.
-2. **Utilize index variables** to iterate through multiple vectors simultaneously within a loop.
-3. **Incorporate if/else conditional statements** to add decision-making within loops.
-4. **Store loop results** in vectors and lists for further analysis.
-5. **Apply loops** to real-world tasks such as analyzing multiple datasets and generating multiple plots.
-6. **Debug loops** effectively by isolating and testing individual iterations.
+1.  **Explain the syntax and structure** of a basic for loop in R.
+2.  **Utilize index variables** to iterate through multiple vectors simultaneously within a loop.
+3.  **Incorporate if/else conditional statements** to add decision-making within loops.
+4.  **Store loop results** in vectors and lists for further analysis.
+5.  **Apply loops** to real-world tasks such as analyzing multiple datasets and generating multiple plots.
+6.  **Debug loops** effectively by isolating and testing individual iterations.
 
 This knowledge equips me to handle repetitive tasks in R with greater precision and efficiency.
 

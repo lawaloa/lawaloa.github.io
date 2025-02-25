@@ -2,7 +2,7 @@
 title: "Joining data with Pandas"
 author: "Omotola Ayodele Lawal"
 date: "2024-09-04"
-categories: [code, analysis, python]
+categories: [code, note, DataCamp, Data Manipulation, Data Joining, python]
 image: "image.jpg"
 ---
 

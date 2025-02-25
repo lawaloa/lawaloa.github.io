@@ -2,7 +2,7 @@
 title: "Demographic Pyramids for Epidemiological Analysis"
 author: "The GRAPH Network"
 date: "2024-12-29"
-categories: [code, note, Data Reporting, R]
+categories: [code, note, The GRAPH Course, Data Reporting, Epidemiology, Geospatial, Data Visualization, R]
 image: "graph.png"
 ---
 

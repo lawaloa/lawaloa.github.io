@@ -2,7 +2,8 @@
 title: "PROJECT | MODELING CAR INSURANCE CLAIMS OUTCOME"
 author: "Omotola Ayodele Lawal"
 date: "2024-11-23"
-categories: [Project]
+categories: [Project, DataCamp]
+image: "car.jpg"
 ---
 
 ![](car.jpg)
@@ -12,5 +13,3 @@ Insurance companies invest significant resources into optimizing pricing strateg
 This project focused on building a predictive model to determine whether a customer is likely to file a claim during the policy period. The approach involved identifying the single feature that yielded the highest model accuracy, providing valuable insights for improved decision-making.
 
 Check the project [here](https://lawaloa.github.io/Project_7/){target="_blank"}
-
-

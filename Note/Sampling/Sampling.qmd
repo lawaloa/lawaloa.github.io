@@ -2,7 +2,7 @@
 title: "COURSE 19 | SAMPLING AND POINT IN PYTHON"
 author: "Omotola Ayodele Lawal"
 date: "2024-12-26"
-categories: [code, note, python]
+categories: [code, note, DataCamp, Statistic, python]
 image: "Sampling.jpg"
 ---
 

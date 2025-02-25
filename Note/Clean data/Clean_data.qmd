@@ -2,7 +2,7 @@
 title: "COURSE 15: CLEANING DATA IN PYTHON"
 author: "Omotola Ayodele Lawal"
 date: "2024-10-05"
-categories: [code, note, python]
+categories: [code, note, DataCamp, Data Cleaning, python]
 image: "Clean_data.jpg"
 ---
 

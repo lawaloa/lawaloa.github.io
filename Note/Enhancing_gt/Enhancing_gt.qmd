@@ -2,7 +2,7 @@
 title: "Optimizing gt Tables for Enhanced Visualization"
 author: "The GRAPH Network"
 date: "2025-02-20"
-categories: [code, note, Data Reporting, Grammar of tables, R]
+categories: [code, note, The GRAPH Course, Data Reporting, Grammar of tables, R]
 image: "graph.png"
 ---
 
@@ -12,24 +12,24 @@ Building on the foundation of the previous [{gt} lesson](https://lawaloa.github.
 
 ## Key Skills Gained:
 
-1. **Applying Pre-Defined Themes** (`opt_stylize`)
+1.  **Applying Pre-Defined Themes** (`opt_stylize`)
 
-- Learned to apply pre-defined styles and color themes to tables using the `opt_stylize()` function. Explored different style numbers and color choices to enhance visual appeal.
+-   Learned to apply pre-defined styles and color themes to tables using the `opt_stylize()` function. Explored different style numbers and color choices to enhance visual appeal.
 
-2. **Formatting Table Values** (`data_color`)
+2.  **Formatting Table Values** (`data_color`)
 
-- Used the `data_color()` function to highlight key values in specific columns, making large datasets more interpretable.
+-   Used the `data_color()` function to highlight key values in specific columns, making large datasets more interpretable.
 
-3. **Conditional Formatting** (`tab_style`)
+3.  **Conditional Formatting** (`tab_style`)
 
-- Mastered conditional formatting by applying styles to table cells when they meet specific conditions or thresholds.
+-   Mastered conditional formatting by applying styles to table cells when they meet specific conditions or thresholds.
 
-4. **Enhancing Table Text (Fonts & Colors)**
+4.  **Enhancing Table Text (Fonts & Colors)**
 
-- Customized table titles, subtitles, and other text elements with different fonts and colors using `gt::tab_style()`.
+-   Customized table titles, subtitles, and other text elements with different fonts and colors using `gt::tab_style()`.
 
-5. **Adding Borders** (`tab_style` **&** `cell_borders`)
+5.  **Adding Borders** (`tab_style` **&** `cell_borders`)
 
-- Learned to draw borders within tables to highlight specific sections, adjusting line color and thickness for better readability.
+-   Learned to draw borders within tables to highlight specific sections, adjusting line color and thickness for better readability.
 
 **For a step-by-step guide with practical examples, visit** [this site](https://lawaloa.github.io/Enhancing_gt/){target="_blank"}.

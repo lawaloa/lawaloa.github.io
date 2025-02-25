@@ -2,7 +2,7 @@
 title: "Layers"
 author: "The GRAPH Network"
 date: "2024-12-22"
-categories: [code, note, Geospatial, R]
+categories: [code, note, The GRAPH Course, Geospatial, R]
 image: "graph.png"
 ---
 
