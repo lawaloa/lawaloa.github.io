@@ -1,0 +1,19 @@
+---
+title: "Physical Features"
+author: "The GRAPH Network"
+date: "2024-12-2"
+categories: [code, note, Geospatial, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+Understanding **geographic context** is essential for spatial data, as it helps in locating events in relation to *environmental features* like streets and landmarks.
+
+Through this learning journey, I have gained the following skills:
+
+-   Adding **physical features** to maps to enhance geographic context.
+-   Plotting multiple layers on maps to complement thematic visualizations.
+-   Relating physical features to their respective geometry types for accurate representation.
+
+For more insights, check it out on [this site](https://lawaloa.github.io/Physical_feature/){target="_blank"}.

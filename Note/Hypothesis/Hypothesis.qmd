@@ -1,0 +1,21 @@
+---
+title: "COURSE 20 | Hypothesis Testing in Python"
+author: "Omotola Ayodele Lawal"
+date: "2025-01-15"
+categories: [code, note, DataCamp, Statistic, python]
+image: "SOA_Hypo.jpg"
+---
+
+![](SOA_Hypo.jpg)
+
+Completing the **Hypothesis Testing in Python** course has enhanced my understanding of the **one-sample proportion test** workflow. Along the way, I explored key concepts such as **z-scores, p-values, and Type I and Type II errors**. Below is a summary of my learning journey:
+
+1.  **Hypothesis Tests and Z-Scores** – I examined a real-world case where hypothesis testing played a crucial role in decision-making.
+
+2.  **Two-Sample and ANOVA Tests** – I learned how to compare means between two groups using **t-tests** and extended this to multiple groups using **ANOVA** and **pairwise t-tests**.
+
+3.  **Proportion Tests** – Through hands-on exercises, I applied **chi-square independence tests** to compare proportions across multiple groups and revisited the **one-sample case** with **chi-square goodness-of-fit tests**.
+
+4.  **Non-Parametric Tests** – I explored the assumptions underlying **parametric tests** and learned how **non-parametric tests** serve as alternatives when those assumptions are violated.
+
+Check [here](https://lawaloa.github.io/HYPOTHESIS/){target="_blank"} for details.
