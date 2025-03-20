@@ -1,0 +1,24 @@
+---
+title: "COURSE 21 | Experimental Design in Python"
+author: "Omotola Ayodele Lawal"
+date: "2025-03-02"
+categories: [code, note, DataCamp, Statistic, python]
+image: "SOA_Experi.jpg"
+---
+
+![](SOA_Experi.jpg)
+
+Building expertise in **experimental design** has equipped me with the analytical tools to rigorously test hypotheses and quantify risks in my work.
+
+My journey began with understanding the **fundamentals of experimental design**, including different setups like **blocking and stratification**, as well as the application of **visual and analytical tests for normality** in experimental data.
+
+I then delved into advanced **experimental design techniques**, focusing on **factorial designs, randomized block designs, and covariate adjustments** to enhance the accuracy and reliability of experiments.
+
+Along the way, I mastered essential **statistical tests**, including **t-tests, ANOVA, and Chi-Square**, while also exploring **post-hoc analyses and power analysis** to determine optimal sample sizes and effect sizes. This allowed me to confidently select the right tests, interpret p-values, and minimize errors in my analyses.
+
+In tackling the complexities of **experimental data analysis**, I applied tools like `pandas` for data manipulation, addressed challenges like heteroscedasticity using `scipy.stats`, and leveraged **non-parametric tests** such as the **Mann-Whitney U test**. Additionally, I explored techniques for **data transformation, visualization, and interpretation**, strengthening my ability to conduct **robust, real-world analyses** across various experimental settings.
+
+This learning experience has deepened my ability to design, analyze, and interpret experiments with precision, preparing me to drive data-informed decision-making in diverse applications.
+
+
+Click [here](https://lawaloa.github.io/EXPERIMENTAL_DESIGN/){target="_blank"} for details.
