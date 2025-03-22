@@ -1,0 +1,17 @@
+---
+title: "PROJECT | HYPOTHESIS TESTING WITH MEN'S AND WOMEN'S SOCCER MATCHES"
+author: "Omotola Ayodele Lawal"
+date: "2025-03-04"
+categories: [Project, DataCamp]
+image: "soccer-pitch.jpg"
+---
+
+![A soccer pitch for an international match.](soccer-pitch.jpg)
+
+This project aimed to investigate whether more goals are scored in women’s FIFA World Cup matches compared to men’s, using a statistical hypothesis test. As a sports journalist specializing in soccer analysis, I have observed international matches for years and suspected a scoring disparity between the two tournaments. However, to validate this claim, a data-driven approach was necessary.
+
+To ensure accuracy, the analysis focused solely on **official FIFA World Cup matches (excluding qualifiers) since January 1, 2002**. Data was gathered from reliable sources and analyzed using statistical techniques, including the **Wilcoxon-Mann-Whitney test**, to determine if the difference in goal-scoring was statistically significant.
+
+The findings revealed a **statistically significant difference** in the number of goals scored between men’s and women’s FIFA World Cup matches, suggesting key variations in match dynamics, playing styles, or tactical approaches. These insights provide valuable context for football analysis, sparking discussions on the evolution of the sport across both categories.
+
+Check the project [here](https://lawaloa.github.io/Project_10/){target="_blank"}.
