@@ -1,0 +1,45 @@
+---
+title: "Great Tables 3 in Python: Data Color and Polishing"
+author: "Posit PBC"
+date: "2025-04-26"
+categories: [code, note, Posit PBC, Data Reporting, Great Tables, python]
+image: "GT.png"
+---
+
+![](GT.png)
+
+The Great Tables package is ideal for crafting beautiful, high-quality tables for reports, publications, and data presentations. Effective tables typically share three key characteristics:
+
+1.  structuring that aids in the reading of the table.
+
+2.  well-formatted values, fitting expectations for the field of study.
+
+3.  styling that reduces time to insight and improves aesthetics.
+
+## Key Skills Acquired:
+
+1.  **Adding Explanatory Footnotes and Source Notes**
+
+-   Used`tab_source_note()` to append footnotes or cite data sources directly within the table.
+
+-   Provided helpful context for interpretation and ensured reproducibility.
+
+2.  **Adjusting Column Widths with** (`cols_width`)
+
+-   Resized specific columns to optimize space usage, especially for wide or dense datasets.
+
+-   Improved layout and prevented content overflow.
+
+3.  **Formatting Table Values with** `fmt_*()` **Functions**
+
+-   Applied formatting to numeric values, dates, percentages, and more to enhance clarity and alignment with standards in scientific or business reporting.
+
+4.  **Styling Enhancements Using** `data_color()`, `cols_align()` **and** `tab_options()`
+
+-   Applied conditional coloring (`data_color()`) to emphasize data ranges or categories.
+
+-   Aligned columns (`cols_align()`) for consistency and readability.
+
+-   Customized general table aesthetics using `tab_options()` to refine spacing, borders, and fonts.
+
+**For a step-by-step guide with practical examples, visit** [this site](https://lawaloa.github.io/Lesson_3/){target="_blank"}.

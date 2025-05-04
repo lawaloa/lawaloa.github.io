@@ -1,0 +1,27 @@
+---
+title: "Great Tables 2 in Python: Introducing Units Notation"
+author: "Posit PBC"
+date: "2025-04-25"
+categories: [code, note, Posit PBC, Data Reporting, Great Tables, python]
+image: "GT_2.png"
+---
+
+![](GT_2.png)
+
+Building on the foundation of the previous [{GT} lesson on table structure](https://lawaloa.github.io/Lesson_1/){target="_blank"}, I advanced my skills in using the {GT} package to refine, annotate, and style tables for scientific reporting. This lesson focused on improving table aesthetics and clarity—vital for communicating scientific results effectively.
+
+## Key Skills Gained:
+
+1.  **Formatting Table Values And Chemical Formulas Using** (`fmt_units`) **and** (`fmt_scientific`)
+
+-   Used `fmt_units()` to clearly annotate values with measurement units (e.g., mg, kg, L).
+
+-   Applied `fmt_scientific()` to format chemical values and numbers using scientific notation.
+
+2.  **Using the** `opt_*()` **Methods for Quick Styling (Fonts, Colors & Spacing)**
+
+-   Customized fonts and layouts using `opt_table_font()` and `opt_stylize()`.
+
+-   Adjusted spacing to improve readability between closely packed values using `opt_horizontal_padding()`.
+
+**For a step-by-step guide with practical examples, visit** [this site](https://lawaloa.github.io/Lesson_2/){target="_blank"}.

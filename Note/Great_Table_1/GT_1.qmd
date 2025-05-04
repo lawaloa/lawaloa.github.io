@@ -1,0 +1,51 @@
+---
+title: "Great Tables 1 in Python: Structure, Format and Style"
+author: "Posit PBC"
+date: "2025-04-24"
+categories: [code, note, Posit PBC, Data Reporting, Great Tables, python]
+image: "GT_1.PNG"
+---
+
+![](GT_1.PNG)
+
+Tables are an essential tool for presenting data in a structured, clear, and visually appealing format. With python and the `GT` package, we can create highly customizable tables that enhance data analysis and storytelling.
+
+In this lesson, I mastered techniques to design aesthetically pleasing tables that effectively communicate insights.
+
+# Key Skills Acquired
+
+1.  **Building Tables with GT()**
+
+-   Created clean, well-structured tables using the `GT()` function in Python.
+
+2.  **Grouping Columns Under Spanner Headings**
+
+-   Organized related variables under shared headings to improve clarity and data structure.
+
+3.  **Adding Stubs for Row Labels**
+
+-   Used stubs to label rows, enhancing table readability and interpretability.
+
+4.  **Renaming Column Headers**
+
+-   Customized column titles for clarity and contextual relevance.
+
+5.  **Formatting Data**: Applied formatting to:
+
+-   Display currency values in a reader-friendly style.
+
+-   Convert fractional numbers into percentages for better interpretation.
+
+6.  **Styling with tab_style()**
+
+-   Enhanced table appearance by:
+
+-   Highlighting specific columns with background colors.
+
+-   Making totals or summary rows bold for emphasis.
+
+7.  **Advanced Customization**
+
+-   Explored additional customization features to improve storytelling and visual aesthetics.
+
+**For a step-by-step guide with practical examples, visit** [this site](https://lawaloa.github.io/Lesson_1/){target="_blank"}.
