@@ -1,0 +1,32 @@
+---
+title: "Automating Visualizations"
+date: "2025-04-19"
+categories: [code, note, The GRAPH Course, Automation, Data Reporting, Data Visualization, R]
+image: "graph.png"
+---
+
+![](graph.png)
+
+In many real-world data analysis tasks, especially in epidemiology, we often need to generate the same type of plots for multiple regions or indicators. In this lesson, I learned how to automate such repetitive plotting workflows by combining the power of `{ggplot2}` and `{purrr}` in `R`.
+
+I began by exploring the programmatic capabilities of {ggplot2}, building reusable, custom plotting functions to streamline graph creation. I then used {purrr} to iterate over subsets of data and variables, allowing me to automatically generate and save multiple plots in a single step. This automation not only improved my efficiency but also ensured consistency across visual outputs.
+
+## Key Skills Gained:
+
+1. **Identifying Repetitive Plotting Tasks**
+
+- Recognized when repetitive filtering and plotting are necessary and designed structured workflows to handle them efficiently.
+
+2. **Creating Custom Plotting Functions**
+
+- Built flexible plotting functions that support dynamic inputs for subsetting data and customizing plots.
+
+3. **Automating with** `purrr::map()`
+
+- Used `map()` to iterate over a vector of variables and apply plotting functions automatically.
+
+4. **Combining Iteration Techniques**
+
+- Integrated `map()` inside for loops to generate plots across multiple combinations of subsets and indicators.
+
+**For a step-by-step guide with practical examples, visit** [this site](https://lawaloa.github.io/Automating_Visualization/){target="_blank"}.
