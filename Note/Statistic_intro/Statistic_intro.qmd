@@ -1,0 +1,90 @@
+---
+title: "Introduction to Statistics in Python"
+author: "Omotola Ayodele Lawal"
+date: "2025-09-30"
+categories: [code, note, DataCamp, Statistic, python]
+image: "SOA_Stat.jpg"
+---
+
+![](SOA_Stat.jpg)
+
+Completing the **Introduction to Statistics in Python** course has strengthened my ability to summarize, analyze, and interpret data using Python. Along the way, I explored key concepts that form the foundation of statistical thinking. Below is a summary of what I learned:
+
+------------------------------------------------------------------------
+
+### 1. Data Types and Measures of Center
+
+-   Differentiated between **numeric** (discrete, continuous) and **categorical** (nominal, ordinal) data.
+-   Learned how to summarize data with **mean, median, and mode**.
+-   Discovered how **outliers** and **skewness** affect the choice of summary statistic.
+-   Practiced using **histograms** to visualize sleep patterns in mammals.
+
+------------------------------------------------------------------------
+
+### 2. Measures of Dispersion
+
+-   Explored ways to describe how spread out data is, including:
+    -   **Variance** and **Standard Deviation**\
+    -   **Mean Absolute Deviation (MAD)**\
+    -   **Quantiles, Quartiles, and Interquartile Range (IQR)**\
+-   Used **boxplots** to detect **outliers** and measure spread.
+
+------------------------------------------------------------------------
+
+### 3. Probability and Randomness
+
+-   Understood concepts of **independent vs. dependent events**.
+-   Practiced **sampling from datasets** with and without replacement.
+-   Applied **random seeds** for reproducibility.
+-   Learned to calculate probabilities using **probability distributions**.
+
+------------------------------------------------------------------------
+
+### 4. Probability Distributions
+
+-   Worked with **discrete distributions** like rolling dice and visualizing probability areas.
+-   Learned the **binomial distribution** to model binary events (success/failure).
+-   Applied **continuous distributions** such as:
+    -   Uniform Distribution\
+    -   Normal Distribution\
+    -   Poisson Distribution\
+    -   Exponential and Student’s t-distribution\
+-   Practiced simulating real-world scenarios (e.g., waiting times, coin flips, and sales deals).
+
+------------------------------------------------------------------------
+
+### 5. The Central Limit Theorem (CLT)
+
+-   Explored how **sample means** approximate a normal distribution, regardless of population shape.
+-   Understood why **larger sample sizes** improve accuracy.
+-   Applied CLT to both **numerical data** and **proportions**.
+
+------------------------------------------------------------------------
+
+### 6. Correlation
+
+-   Learned how to measure and interpret relationships between two variables using the **correlation coefficient**.
+-   Understood **strength (magnitude)** and **direction (sign)** of relationships.
+-   Visualized correlations with **scatterplots and trendlines**.
+-   Practiced calculating correlations using **Python libraries**.
+-   Noted that correlation ≠ causation and explored **confounding variables**.
+
+------------------------------------------------------------------------
+
+### 7. Experimental Design
+
+-   Distinguished between **observational studies** and **controlled experiments**.
+-   Learned the **“gold standard”** principles of experiments: randomization, control groups, and replicability.
+-   Understood differences between **longitudinal** and **cross-sectional studies**.
+
+------------------------------------------------------------------------
+
+### Key Takeaways
+
+-   Gained practical skills in **descriptive statistics, probability, and distributions**.\
+-   Learned how to model uncertainty and variability with **statistical tools**.\
+-   Built intuition for how **statistics informs decision-making** in real-world contexts.
+
+This course laid a strong foundation for my journey into **data analysis and statistical modeling with Python**.
+
+Check [here](https://lawaloa.github.io/Statistic_intro/){target="_blank"} for details.

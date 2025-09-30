@@ -1,0 +1,27 @@
+---
+title: "SQL PROJECT 1 | Maji Ndogo Water Services – SQL Data Analysis & Integrity Validation"
+author: "Omotola Ayodele Lawal"
+date: "2025-05-30"
+categories: [Query, Project, ALX, Maji Ndogo, SQL]
+image: "DA.png"
+---
+
+![](DA.png)
+
+This project focuses on analyzing a newly collected **database of 60,000 records** for **Maji Ndogo Water Services**.\
+The data, gathered by engineers, scientists, field workers, and analysts, holds crucial insights to address the region’s ongoing water crisis.
+
+The goal is to **explore, clean, and analyze** this extensive dataset to uncover patterns, identify challenges, and support data-driven decision-making.\
+As part of the project, I broke down the work into actionable steps:
+
+1.  **Data Familiarization** – Load and inspect all tables to understand structure, relationships, and variables.\
+2.  **Water Source Analysis** – Identify all unique water source types and their distributions.\
+3.  **Visit Pattern Exploration** – Analyze visit frequencies to different sources and flag high-traffic locations.\
+4.  **Water Quality Assessment** – Filter sources with high subjective quality scores and frequent visits.\
+5.  **Pollution Investigation** – Identify contaminated sources requiring urgent intervention.
+
+By executing these tasks, I translate raw data into **meaningful insights** that can guide interventions, improve infrastructure planning, and ultimately bring Maji Ndogo closer to resolving its water crisis.
+
+**Skills Applied**: SQL · Data Exploration · Data Cleaning · Filtering · Conditional Queries · Pattern Detection
+
+Check [here](https://github.com/lawaloa/SQL_Project_1/){target="_blank"} for details.

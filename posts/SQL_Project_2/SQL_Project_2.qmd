@@ -1,0 +1,26 @@
+---
+title: "SQL PROJECT 2 | Maji Ndogo Water Crisis – Turning Data into Community Insights"
+author: "Omotola Ayodele Lawal"
+date: "2025-06-12"
+categories: [Query, Project, ALX, Maji Ndogo, SQL]
+image: "DA.png"
+---
+
+![](DA.png)
+
+This project is personal to me because it goes beyond running SQL queries — it’s about telling the story of the **Maji Ndogo water crisis** through data.
+
+When I first explored the dataset, I didn’t just see rows and columns. I saw communities waiting in long queues, families depending on unsafe water, and field workers trying their best to bridge a massive gap.
+
+Here’s how I approached it:\
+- I started by **cleaning and validating the data** to make sure the foundation was trustworthy.\
+- Then, I used **clustering and aggregation** to uncover the bigger narratives hidden beneath isolated records.\
+- I treated each data point as someone’s lived experience — not just a number — which made **integrity checks and auditing** essential.
+
+-   Finally, I zoomed in on both **granular details** (individual sources, employees, queues) and the **big picture** (provincial coverage, quality, and availability).
+
+For me, this project isn’t just about technical SQL skills. It’s about showing how **data can become a voice** — turning hidden patterns into insights that can guide real-world solutions for the communities who need them most.
+
+**Skills Applied:** SQL · Data Aggregation · Counting · Grouping · Filtering · Data Validation · Data Exploration · Queue Analysis · Window Functions · Ranking Queries · Analytical Thinking · Data Storytelling
+
+Check [here](https://github.com/lawaloa/SQL_Project_2/){target="_blank"} for details.

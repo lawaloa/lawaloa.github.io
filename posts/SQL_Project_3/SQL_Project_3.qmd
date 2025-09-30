@@ -1,0 +1,29 @@
+---
+title: "SQL Project 3 | Maji Ndogo Water Crisis – Uncovering Corruption Through Data"
+author: "Omotola Ayodele Lawal"
+date: "2025-06-20"
+categories: [Query, Project, ALX, Maji Ndogo, SQL]
+image: "DA.png"
+---
+
+![](DA.png)
+
+This project is more than just a collection of SQL queries — it was a journey into how **data can expose the truth hidden in plain sight**. By analyzing mismatches between surveyor reports and auditor scores, I uncovered patterns of mistakes that pointed to **potential corrupt practices**.
+
+For me, this went far beyond practicing SQL syntax. It strengthened my understanding of how data analysis can be applied to **real-world challenges in governance, fairness, and accountability**.
+
+At its core, this project shows how **SQL is not just about databases** — it is about using data as a **storytelling tool** to highlight issues that prevent communities from enjoying the resources that are rightfully theirs.
+
+The story centers on an independent audit of the **Maji Ndogo water project**, where discrepancies in water source records demanded closer scrutiny. Through writing SQL queries, building Entity Relationship Diagrams (ERDs), and experimenting with joins, aggregations, and filtering, I explored how data can uncover both truths and irregularities — ultimately showing how analysis can **inform better governance and stronger institutions**.
+
+> ## Skills Applied
+>
+> -   **SQL Fundamentals**: Joins · Filtering · Grouping · Counting · Aggregation\
+> -   **Data Cleaning & Validation**: Ensuring accuracy · Handling inconsistencies · Integrity checks\
+> -   **Exploratory Data Analysis (EDA)**: Identifying anomalies · Spotting patterns · Investigating outliers\
+> -   **Analytical Thinking**: Breaking down complex queries step by step · Building queries with CTEs · Iterative testing\
+> -   **Data Storytelling**: Translating raw data into actionable insights · Highlighting corruption patterns · Presenting findings clearly\
+> -   **Problem-Solving**: Structuring queries for scalability · Debugging errors · Logical reasoning with nested queries\
+> -   **Governance & Accountability Focus**: Using data analysis as a tool for transparency, fairness, and decision-making
+
+Check [here](https://github.com/lawaloa/SQL_Project_3/){target="_blank"} for details.
