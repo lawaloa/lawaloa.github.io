@@ -1,0 +1,37 @@
+---
+title: "SQL Project 4 | Maji Ndogo Water Crisis – Charting the Course for Maji Ndogo’s Water Future"
+author: "Omotola Ayodele Lawal"
+date: "2025-10-20"
+categories: [Query, Project, ALX, Maji Ndogo, SQL]
+image: "DA.png"
+---
+
+![](DA.png)
+
+This project is more than just a series of SQL queries — it was a **journey into applying data to drive real-world change**.  
+By transforming raw water source data into actionable insights, I designed a framework for tracking, prioritizing, and improving **water accessibility across Maji Ndogo’s provinces**.
+
+Through this analysis, I built a plan that helps identify which water sources to fix, upgrade, or monitor — enabling teams to **translate data into community impact**.  
+What started as a database exercise became a hands-on example of how SQL supports **governance, transparency, and development**.
+
+At its core, this project highlights that **SQL isn’t just for querying tables** — it’s a tool for building **systems of accountability**.  
+From constructing relational models and using CASE logic for decisions, to developing the `Project_progress` table that tracks every intervention, each step reflected how structured data can guide sustainable action.
+
+The story centers on the **Maji Ndogo Water Improvement Initiative**, where we analyzed the status of wells, rivers, shared taps, and in-home sources to build a province-wide plan for fair and efficient distribution.  
+By combining SQL logic, conditional analysis, and project tracking, I developed a structured database solution that supports **field engineers, local authorities, and future monitoring efforts**.
+
+> ## ✅ Skills Applied
+>
+> - **SQL Fundamentals**: Joins · Filtering · Grouping · Aggregation · Constraints  
+> - **Data Cleaning & Validation**: Ensuring accuracy · Handling inconsistencies · Data integrity checks  
+> - **Exploratory Data Analysis (EDA)**: Spotting trends · Identifying anomalies · Understanding distribution of water sources
+>
+> - **Analytical Thinking**: Translating logic into queries · Applying CASE statements · Building multi-table joins  
+> - **Data Storytelling**: Turning SQL results into actionable insights · Visualizing improvement strategies · Communicating findings clearly  
+> - **Problem-Solving**: Structuring scalable queries · Debugging joins and logic errors · Optimizing conditions for clarity  
+> - **Development & Governance Focus**: Applying data to guide equitable resource management and informed decision-making  
+
+---
+
+Check [here](https://github.com/lawaloa/SQL_Project_4/){target="_blank"} for full details and SQL documentation.
+

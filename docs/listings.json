@@ -2,6 +2,7 @@
   {
     "listing": "/Portfolio.html",
     "items": [
+      "/posts/SQL_Project_4/SQL_Project_4.html",
       "/posts/SQL_Project_3/SQL_Project_3.html",
       "/posts/SQL_Project_2/SQL_Project_2.html",
       "/posts/SQL_Project_1/SQL_Project_1.html",
@@ -21,6 +22,7 @@
   {
     "listing": "/Note.html",
     "items": [
+      "/Note/Intro_Matplotlib/Matplotlib_intro.html",
       "/Note/Statistic_intro/Statistic_intro.html",
       "/Note/Great_Table_3/GT_3.html",
       "/Note/Great_Table_2/GT_2.html",
