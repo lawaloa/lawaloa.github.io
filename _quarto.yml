@@ -38,9 +38,9 @@ website:
    - title: "Certification"
      contents:
         - Cert.qmd
-        - annual.qmd
-        - who1.qmd
-        - who2.qmd
+        - FOSSA.qmd
+        - ALX_PD.qmd
+        - alx_DA.qmd
         # navigation items
         
     

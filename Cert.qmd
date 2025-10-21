@@ -1,12 +1,19 @@
 ---
 title: "Certification"
 listing:
-  contents: cert
+  contents: Cert.qmd
   sort: "date desc"
   type: default
   categories: false
   sort-ui: false
   filter-ui: false
+
 page-layout: full
 title-block-banner: true
 ---
+
+### Continuous Learning Journey
+
+As part of my ongoing commitment to lifelong learning and professional growth in **Data Science**, **Machine Learning**, and **AI Engineering**, I recently completed the **Fundamentals of Statistical Software & Analysis** course offered by the **University of Oxford, Medical Sciences Division**, earning a **Certificate of Completion**.
+
+In addition, I successfully completed **Professional Development Skills for the Digital Age** and **Data Analytics** courses from **ALX**. These programs have further strengthened my analytical, technical, and professional capabilities — reinforcing my dedication to staying relevant and impactful in today’s data-driven world.

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Omotola Ayodele Lawal",
     "section": "",
-    "text": "I am a dedicated and detail-oriented medical doctor with a strong focus on clinical care and patient-centered solutions. I excel in collaborative environments, adapt quickly to challenging circumstances, and take the initiative to drive results. Beyond my medical practice, I am passionate about leveraging data science to uncover insights and solve complex problems. I also enjoy mentoring high school graduates, helping them make informed decisions about their career paths."
+    "text": "I am Omotola Ayodele Lawal — a Medical Doctor turned aspiring Data & AI Engineer. With a solid foundation in data science, I specialize in data wrangling, exploratory analysis, and transforming complex datasets into actionable insights. Through programs like ALX, DataCamp, Codebasics and hands-on projects, I’m bridging healthcare and technology to solve real-world problems with Microsoft Excel, Microsoft PowerBI, Python, R, SQL and machine learning. My medical background gives me a unique edge in interpreting health data deeply and applying advanced analytics to drive smarter, impact-driven decisions."
   },
   {
     "objectID": "docs/posts/post-with-code/index.html",
@@ -74,7 +74,7 @@
     "href": "Cert.html",
     "title": "Certification",
     "section": "",
-    "text": "No matching items",
+    "text": "Continuous Learning Journey\nAs part of my ongoing commitment to lifelong learning and professional growth in Data Science, Machine Learning, and AI Engineering, I recently completed the Fundamentals of Statistical Software & Analysis course offered by the University of Oxford, Medical Sciences Division, earning a Certificate of Completion.\nIn addition, I successfully completed Professional Development Skills for the Digital Age and Data Analytics courses from ALX. These programs have further strengthened my analytical, technical, and professional capabilities — reinforcing my dedication to staying relevant and impactful in today’s data-driven world.\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Certification"
     ]
@@ -148,7 +148,7 @@
     "href": "index.html#experience",
     "title": "Omotola Ayodele Lawal",
     "section": "Experience",
-    "text": "Experience\nNigerian Navy Reference Hospital, Ojo, Lagos, Nigeria | Medical Officer | February 2024 - Present\nFederal Medical Center, Owo | House Officer | January 2023 - January 2024"
+    "text": "Experience\nDoren Specialist Hospital Limited, Ajah, Lagos, Nigeria | Medical Officer | June 2024 - Present\nNigerian Navy Reference Hospital, Ojo, Lagos, Nigeria | Medical Officer | February 2024 - April 2025\nFederal Medical Center, Owo | House Officer | January 2023 - January 2024"
   },
   {
     "objectID": "posts/Project_5/project5.html#section",
@@ -204,7 +204,7 @@
     "href": "index.html#professional-development-training",
     "title": "Omotola Ayodele Lawal",
     "section": "Professional Development Training",
-    "text": "Professional Development Training\nSELF-PACED: Data Analysis & Statistics Sequence | The Global Research and Analysis for Public Health Network | June 2024 - Present\nAssociate Data Science Course in Python | DataCamp Inc | April 2024 - Present\nFundamentals of Statistical Software & Analysis (FoSSA) | University of Oxford Medical Sciences Division | August 2024 - November 2024"
+    "text": "Professional Development Training\nAssociate Data Science Course in Python | DataCamp Inc | April 2024 - Present\nALX Data Analytic Program | May, 2025 – August, 2025\nALX Professional Development Skills for the Digital Age | January, 2025 – April, 2025\nSELF-PACED: Data Analysis & Statistics Sequence | The Global Research and Analysis for Public Health Network | June 2024 - February 2025\nFundamentals of Statistical Software & Analysis (FoSSA) | University of Oxford Medical Sciences Division | August 2024 - November 2024"
   },
   {
     "objectID": "Note/Clean data/Clean_data.html",
@@ -625,5 +625,78 @@
     "title": "SQL Project 4 | Maji Ndogo Water Crisis – Charting the Course for Maji Ndogo’s Water Future",
     "section": "",
     "text": "This project is more than just a series of SQL queries — it was a journey into applying data to drive real-world change.\nBy transforming raw water source data into actionable insights, I designed a framework for tracking, prioritizing, and improving water accessibility across Maji Ndogo’s provinces.\nThrough this analysis, I built a plan that helps identify which water sources to fix, upgrade, or monitor — enabling teams to translate data into community impact.\nWhat started as a database exercise became a hands-on example of how SQL supports governance, transparency, and development.\nAt its core, this project highlights that SQL isn’t just for querying tables — it’s a tool for building systems of accountability.\nFrom constructing relational models and using CASE logic for decisions, to developing the Project_progress table that tracks every intervention, each step reflected how structured data can guide sustainable action.\nThe story centers on the Maji Ndogo Water Improvement Initiative, where we analyzed the status of wells, rivers, shared taps, and in-home sources to build a province-wide plan for fair and efficient distribution.\nBy combining SQL logic, conditional analysis, and project tracking, I developed a structured database solution that supports field engineers, local authorities, and future monitoring efforts.\n\n✅ Skills Applied\n\nSQL Fundamentals: Joins · Filtering · Grouping · Aggregation · Constraints\n\nData Cleaning & Validation: Ensuring accuracy · Handling inconsistencies · Data integrity checks\n\nExploratory Data Analysis (EDA): Spotting trends · Identifying anomalies · Understanding distribution of water sources\nAnalytical Thinking: Translating logic into queries · Applying CASE statements · Building multi-table joins\n\nData Storytelling: Turning SQL results into actionable insights · Visualizing improvement strategies · Communicating findings clearly\n\nProblem-Solving: Structuring scalable queries · Debugging joins and logic errors · Optimizing conditions for clarity\n\nDevelopment & Governance Focus: Applying data to guide equitable resource management and informed decision-making\n\n\n\nCheck here for full details and SQL documentation."
+  },
+  {
+    "objectID": "FOSSA.html",
+    "href": "FOSSA.html",
+    "title": "Fundamentals of Statistical Software & Analysis",
+    "section": "",
+    "text": "I completed the Fundamentals of Statistical Software and Analysis course, which comprises seven modules. The course is designed to teach students about statistical tests and software code used in medical sciences.\nCheck this note for some details.",
+    "crumbs": [
+      "Certification",
+      "Fundamentals of Statistical Software & Analysis"
+    ]
+  },
+  {
+    "objectID": "alx_python.html",
+    "href": "alx_python.html",
+    "title": "ANNUAL PRACTICING LICENSE",
+    "section": "",
+    "text": "This is my Annual Practicing License for the year 2024."
+  },
+  {
+    "objectID": "alx_DA.html",
+    "href": "alx_DA.html",
+    "title": "ALX Data Analytics",
+    "section": "",
+    "text": "I successfully completed the Data Analytics program from ALX, an intensive, hands-on course designed to prepare aspiring data professionals for today’s data-driven world.\nThis program has strengthened my analytical, technical, and professional capabilities — reinforcing my commitment to remain relevant and impactful in the evolving field of Data Science, Machine Learning and AI Engineering.",
+    "crumbs": [
+      "Certification",
+      "ALX Data Analytics"
+    ]
+  },
+  {
+    "objectID": "alx_DA.html#course-overview",
+    "href": "alx_DA.html#course-overview",
+    "title": "ALX Data Analytics",
+    "section": "Course Overview",
+    "text": "Course Overview\nThe ALX Data Analytics programme equipped me with the practical skills and analytical mindset needed to extract meaning from data and communicate insights effectively. Through expert-led training, collaborative learning, and real-world projects, I gained experience using industry-standard tools such as:\n\nGoogle Sheets for data wrangling and exploratory analysis\n\nMicrosoft Power BI for building interactive dashboards and reports\n\nPython for automation, statistical computation, and visualization\n\nSQL for querying and managing relational databases",
+    "crumbs": [
+      "Certification",
+      "ALX Data Analytics"
+    ]
+  },
+  {
+    "objectID": "alx_DA.html#hands-on-experience",
+    "href": "alx_DA.html#hands-on-experience",
+    "title": "ALX Data Analytics",
+    "section": "Hands-on Experience",
+    "text": "Hands-on Experience\nA highlight of the programme was applying these skills to real-life problem simulations, where I analyzed water access data to uncover key insights and propose data-informed solutions.\nThis practical experience not only honed my technical proficiency but also deepened my appreciation for the power of data to drive meaningful social impact.\n\nThis learning journey has been a transformative step in my path as a Data and AI Engineer — combining technical depth with the ability to turn data into action and insight.",
+    "crumbs": [
+      "Certification",
+      "ALX Data Analytics"
+    ]
+  },
+  {
+    "objectID": "ALX_PD.html",
+    "href": "ALX_PD.html",
+    "title": "ALX Professional Development Skills for the Digital Age",
+    "section": "",
+    "text": "I recently completed the Professional Development Skills for the Digital Age program from ALX. This experience has significantly enhanced my analytical, technical, and professional capabilities — reinforcing my commitment to continuous growth and my drive to remain relevant and impactful in today’s data-driven world.",
+    "crumbs": [
+      "Certification",
+      "ALX Professional Development Skills for the Digital Age"
+    ]
+  },
+  {
+    "objectID": "ALX_PD.html#course-overview",
+    "href": "ALX_PD.html#course-overview",
+    "title": "ALX Professional Development Skills for the Digital Age",
+    "section": "Course Overview",
+    "text": "Course Overview\n\nPart 1: Self-Awareness\nExplored personal and professional goals through workshops, reflective exercises, and collaborative discussions.\nThis stage helped me define my career ambitions and identify the strengths that align with my long-term vision in the field of Data and AI Engineering.\n\n\nPart 2: Teamwork & Entrepreneurship\nCollaborated with peers in a team-based entrepreneurial project that developed my leadership, communication, and collaboration skills.\nThis hands-on experience taught me how to manage diverse teams, ideate effectively, and deliver results under real-world constraints.\n\n\nPart 3: Specialisation & Portfolio\nFocused on identifying potential career pathways within my chosen domain while curating a professional portfolio and CV that reflect my evolving expertise.\nThis stage emphasized aligning technical competence with professional branding — a crucial step toward becoming a well-rounded Data Scientist, Machine and AI Engineer.\n\nThis course was not only about professional skills — it was about building adaptability, confidence, and a growth mindset essential for thriving in the digital age.",
+    "crumbs": [
+      "Certification",
+      "ALX Professional Development Skills for the Digital Age"
+    ]
   }
 ]

@@ -1,0 +1,9 @@
+---
+title: "Fundamentals of Statistical Software & Analysis"
+---
+
+![](FOSSA.jpg){width="100%" height="600px"}
+
+I completed the **Fundamentals of Statistical Software and Analysis course**, which comprises seven modules. The course is designed to teach students about statistical tests and software code used in medical sciences. 
+
+Check this [note](https://lawaloa.github.io/FoSSA/){target="_blank"} for some details.

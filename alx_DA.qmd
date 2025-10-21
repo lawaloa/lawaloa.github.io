@@ -1,0 +1,30 @@
+---
+title: "ALX Data Analytics"
+---
+
+![](DA.png){width="100%" height="600px"}
+
+I successfully completed the **Data Analytics** program from **ALX**, an intensive, hands-on course designed to prepare aspiring data professionals for today’s data-driven world.  
+This program has strengthened my **analytical**, **technical**, and **professional** capabilities — reinforcing my commitment to remain relevant and impactful in the evolving field of **Data Science, Machine Learning and AI Engineering**.
+
+---
+
+## Course Overview
+
+The **ALX Data Analytics** programme equipped me with the practical skills and analytical mindset needed to extract meaning from data and communicate insights effectively. Through expert-led training, collaborative learning, and real-world projects, I gained experience using industry-standard tools such as:
+
+- **Google Sheets** for data wrangling and exploratory analysis  
+- **Microsoft Power BI** for building interactive dashboards and reports  
+- **Python** for automation, statistical computation, and visualization  
+- **SQL** for querying and managing relational databases  
+
+---
+
+## Hands-on Experience
+
+A highlight of the programme was applying these skills to real-life problem simulations, where I analyzed water access data to uncover key insights and propose data-informed solutions.  
+This practical experience not only honed my technical proficiency but also deepened my appreciation for the power of data to drive meaningful social impact.
+
+---
+
+*This learning journey has been a transformative step in my path as a Data and AI Engineer — combining technical depth with the ability to turn data into action and insight.*

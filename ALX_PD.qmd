@@ -1,0 +1,30 @@
+---
+title: "ALX Professional Development Skills for the Digital Age"
+---
+
+![](Proff_Dev.png){width="100%" height="600px"}
+
+
+I recently completed the **Professional Development Skills for the Digital Age** program from **ALX**. This experience has significantly enhanced my **analytical**, **technical**, and **professional** capabilities — reinforcing my commitment to continuous growth and my drive to remain relevant and impactful in today’s data-driven world.
+
+---
+
+## Course Overview
+
+### Part 1: Self-Awareness
+Explored personal and professional goals through workshops, reflective exercises, and collaborative discussions.  
+This stage helped me define my **career ambitions** and identify the strengths that align with my long-term vision in the field of Data and AI Engineering.
+
+### Part 2: Teamwork & Entrepreneurship
+
+Collaborated with peers in a team-based **entrepreneurial project** that developed my **leadership**, **communication**, and **collaboration** skills.  
+This hands-on experience taught me how to manage diverse teams, ideate effectively, and deliver results under real-world constraints.
+
+### Part 3: Specialisation & Portfolio
+
+Focused on identifying potential **career pathways** within my chosen domain while curating a professional **portfolio** and **CV** that reflect my evolving expertise.  
+This stage emphasized aligning technical competence with professional branding — a crucial step toward becoming a well-rounded Data Scientist, Machine and AI Engineer.
+
+---
+
+*This course was not only about professional skills — it was about building adaptability, confidence, and a growth mindset essential for thriving in the digital age.*

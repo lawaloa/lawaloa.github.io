@@ -18,7 +18,7 @@ about:
       href: "mailto:lawalomotola4@gmail.com"   
 ---
 
-I am a dedicated and detail-oriented medical doctor with a strong focus on clinical care and patient-centered solutions. I excel in collaborative environments, adapt quickly to challenging circumstances, and take the initiative to drive results. Beyond my medical practice, I am passionate about leveraging data science to uncover insights and solve complex problems. I also enjoy mentoring high school graduates, helping them make informed decisions about their career paths.
+I am Omotola Ayodele Lawal — a Medical Doctor turned aspiring Data & AI Engineer. With a solid foundation in data science, I specialize in data wrangling, exploratory analysis, and transforming complex datasets into actionable insights. Through programs like ALX, DataCamp, Codebasics and hands-on projects, I’m bridging healthcare and technology to solve real-world problems with Microsoft Excel, Microsoft PowerBI, Python, R, SQL and machine learning. My medical background gives me a unique edge in interpreting health data deeply and applying advanced analytics to drive smarter, impact-driven decisions.
 
 ## Education
 
@@ -26,14 +26,20 @@ University of Ibadan, Ibadan \| Oyo State, Nigeria MB;BS \| May 2015 - November 
 
 ## Experience
 
-Nigerian Navy Reference Hospital, Ojo, Lagos, Nigeria \| Medical Officer \| February 2024 - Present
+Doren Specialist Hospital Limited, Ajah, Lagos, Nigeria | Medical Officer \| June 2024 - Present
+
+Nigerian Navy Reference Hospital, Ojo, Lagos, Nigeria \| Medical Officer \| February 2024 - April 2025
 
 Federal Medical Center, Owo \| House Officer \| January 2023 - January 2024
 
 ## Professional Development Training
 
-SELF-PACED: Data Analysis & Statistics Sequence \| The Global Research and Analysis for Public Health Network \| June 2024 - Present
-
 Associate Data Science Course in Python \| DataCamp Inc \| April 2024 - Present
+
+ALX Data Analytic Program | May, 2025 – August, 2025 
+
+ALX Professional Development Skills for the Digital Age | January, 2025 – April, 2025
+
+SELF-PACED: Data Analysis & Statistics Sequence \| The Global Research and Analysis for Public Health Network \| June 2024 - February 2025
 
 Fundamentals of Statistical Software & Analysis (FoSSA) \| University of Oxford Medical Sciences Division \| August 2024 - November 2024
